@@ -1,0 +1,2887 @@
+country,region,store_type,date,value
+Argentina,AR,Licensed Stores,2010-01-01T00:00:00Z,14.0
+Aruba,,Licensed Stores,2010-01-01T00:00:00Z,1.0
+Australia,AU,Licensed Stores,2010-01-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2010-01-01T00:00:00Z,10.0
+Belgium,BE,Licensed Stores,2010-01-01T00:00:00Z,3.0
+Brazil,BR,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2010-01-01T00:00:00Z,3.0
+Cambodia,KH,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2010-01-01T00:00:00Z,265.0
+Chile,CL,Licensed Stores,2010-01-01T00:00:00Z,30.0
+China,CN,Licensed Stores,2010-01-01T00:00:00Z,172.0
+Colombia,CO,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Curacao,,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Cyprus,CY,Licensed Stores,2010-01-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2010-01-01T00:00:00Z,10.0
+Denmark,DK,Licensed Stores,2010-01-01T00:00:00Z,2.0
+Egypt,EG,Licensed Stores,2010-01-01T00:00:00Z,22.0
+El Salvador,SV,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Finland,FI,Licensed Stores,2010-01-01T00:00:00Z,0.0
+France,FR,Licensed Stores,2010-01-01T00:00:00Z,2.0
+Germany,DE,Licensed Stores,2010-01-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2010-01-01T00:00:00Z,68.0
+Guatemala,GT,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Hong Kong/Macau,,Licensed Stores,2010-01-01T00:00:00Z,112.0
+Hungary,HU,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Indonesia,ID,Licensed Stores,2010-01-01T00:00:00Z,76.0
+Ireland,IE,Licensed Stores,2010-01-01T00:00:00Z,23.0
+Japan,JP,Licensed Stores,2010-01-01T00:00:00Z,876.0
+Jordan,JO,Licensed Stores,2010-01-01T00:00:00Z,10.0
+Kazakhstan,KZ,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2010-01-01T00:00:00Z,63.0
+Lebanon,LB,Licensed Stores,2010-01-01T00:00:00Z,17.0
+Malaysia,MY,Licensed Stores,2010-01-01T00:00:00Z,117.0
+Mexico,MX,Licensed Stores,2010-01-01T00:00:00Z,266.0
+Monaco,MC,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2010-01-01T00:00:00Z,0.0
+New Zealand,NZ,Licensed Stores,2010-01-01T00:00:00Z,41.0
+Norway,NO,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Oman,OM,Licensed Stores,2010-01-01T00:00:00Z,7.0
+Panama,PA,Licensed Stores,2010-01-01T00:00:00Z,27.0
+Peru,PE,Licensed Stores,2010-01-01T00:00:00Z,27.0
+Philippines,PH,Licensed Stores,2010-01-01T00:00:00Z,162.0
+Poland,PL,Licensed Stores,2010-01-01T00:00:00Z,3.0
+Portugal,PT,Licensed Stores,2010-01-01T00:00:00Z,5.0
+Puerto Rico,US_RQ,Licensed Stores,2010-01-01T00:00:00Z,27.0
+Qatar,QA,Licensed Stores,2010-01-01T00:00:00Z,9.0
+Romania,RO,Licensed Stores,2010-01-01T00:00:00Z,7.0
+Russia,RU,Licensed Stores,2010-01-01T00:00:00Z,29.0
+Saudi Arabia,SA,Licensed Stores,2010-01-01T00:00:00Z,68.0
+Singapore,SG,Licensed Stores,2010-01-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2010-01-01T00:00:00Z,295.0
+Spain,ES,Licensed Stores,2010-01-01T00:00:00Z,74.0
+Sweden,SE,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Switzerland,CH,Licensed Stores,2010-01-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2010-01-01T00:00:00Z,226.0
+Turkey,TR,Licensed Stores,2010-01-01T00:00:00Z,127.0
+UAE - Dubai,AE,Licensed Stores,2010-01-01T00:00:00Z,93.0
+United Kingdom,GB,Licensed Stores,2010-01-01T00:00:00Z,83.0
+United States,US,Licensed Stores,2010-01-01T00:00:00Z,3861.0
+Vietnam,VN,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2010-01-01T00:00:00Z,8.0
+Jamaica,JM,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2010-01-01T00:00:00Z,6.0
+Slovakia,SK,Licensed Stores,2010-01-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Total,,Licensed Stores,2010-01-01T00:00:00Z,15756.0
+Trinidad and Tobago,TT,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2010-01-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2010-04-01T00:00:00Z,15.0
+Aruba,,Licensed Stores,2010-04-01T00:00:00Z,1.0
+Australia,AU,Licensed Stores,2010-04-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2010-04-01T00:00:00Z,10.0
+Belgium,BE,Licensed Stores,2010-04-01T00:00:00Z,4.0
+Brazil,BR,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2010-04-01T00:00:00Z,3.0
+Cambodia,KH,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2010-04-01T00:00:00Z,267.0
+Chile,CL,Licensed Stores,2010-04-01T00:00:00Z,30.0
+China,CN,Licensed Stores,2010-04-01T00:00:00Z,177.0
+Colombia,CO,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Curacao,,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Cyprus,CY,Licensed Stores,2010-04-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2010-04-01T00:00:00Z,10.0
+Denmark,DK,Licensed Stores,2010-04-01T00:00:00Z,2.0
+Egypt,EG,Licensed Stores,2010-04-01T00:00:00Z,22.0
+El Salvador,SV,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Finland,FI,Licensed Stores,2010-04-01T00:00:00Z,0.0
+France,FR,Licensed Stores,2010-04-01T00:00:00Z,2.0
+Germany,DE,Licensed Stores,2010-04-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2010-04-01T00:00:00Z,68.0
+Guatemala,GT,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Hong Kong/Macau,,Licensed Stores,2010-04-01T00:00:00Z,112.0
+Hungary,HU,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Indonesia,ID,Licensed Stores,2010-04-01T00:00:00Z,75.0
+Ireland,IE,Licensed Stores,2010-04-01T00:00:00Z,23.0
+Japan,JP,Licensed Stores,2010-04-01T00:00:00Z,878.0
+Jordan,JO,Licensed Stores,2010-04-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2010-04-01T00:00:00Z,65.0
+Lebanon,LB,Licensed Stores,2010-04-01T00:00:00Z,14.0
+Malaysia,MY,Licensed Stores,2010-04-01T00:00:00Z,116.0
+Mexico,MX,Licensed Stores,2010-04-01T00:00:00Z,268.0
+Monaco,MC,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2010-04-01T00:00:00Z,0.0
+New Zealand,NZ,Licensed Stores,2010-04-01T00:00:00Z,41.0
+Norway,NO,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Oman,OM,Licensed Stores,2010-04-01T00:00:00Z,7.0
+Panama,PA,Licensed Stores,2010-04-01T00:00:00Z,27.0
+Peru,PE,Licensed Stores,2010-04-01T00:00:00Z,27.0
+Philippines,PH,Licensed Stores,2010-04-01T00:00:00Z,163.0
+Poland,PL,Licensed Stores,2010-04-01T00:00:00Z,3.0
+Portugal,PT,Licensed Stores,2010-04-01T00:00:00Z,5.0
+Puerto Rico,US_RQ,Licensed Stores,2010-04-01T00:00:00Z,27.0
+Qatar,QA,Licensed Stores,2010-04-01T00:00:00Z,9.0
+Romania,RO,Licensed Stores,2010-04-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2010-04-01T00:00:00Z,31.0
+Saudi Arabia,SA,Licensed Stores,2010-04-01T00:00:00Z,69.0
+Singapore,SG,Licensed Stores,2010-04-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2010-04-01T00:00:00Z,295.0
+Spain,ES,Licensed Stores,2010-04-01T00:00:00Z,76.0
+Sweden,SE,Licensed Stores,2010-04-01T00:00:00Z,1.0
+Switzerland,CH,Licensed Stores,2010-04-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2010-04-01T00:00:00Z,225.0
+Turkey,TR,Licensed Stores,2010-04-01T00:00:00Z,129.0
+UAE - Dubai,AE,Licensed Stores,2010-04-01T00:00:00Z,94.0
+United Kingdom,GB,Licensed Stores,2010-04-01T00:00:00Z,87.0
+United States,US,Licensed Stores,2010-04-01T00:00:00Z,3837.0
+Vietnam,VN,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2010-04-01T00:00:00Z,8.0
+Jamaica,JM,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2010-04-01T00:00:00Z,7.0
+Slovakia,SK,Licensed Stores,2010-04-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Total,,Licensed Stores,2010-04-01T00:00:00Z,15750.0
+Trinidad and Tobago,TT,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2010-04-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2010-07-01T00:00:00Z,20.0
+Aruba,,Licensed Stores,2010-07-01T00:00:00Z,1.0
+Australia,AU,Licensed Stores,2010-07-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2010-07-01T00:00:00Z,11.0
+Belgium,BE,Licensed Stores,2010-07-01T00:00:00Z,4.0
+Brazil,BR,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2010-07-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2010-07-01T00:00:00Z,271.0
+Chile,CL,Licensed Stores,2010-07-01T00:00:00Z,30.0
+China,CN,Licensed Stores,2010-07-01T00:00:00Z,178.0
+Colombia,CO,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Curacao,,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Cyprus,CY,Licensed Stores,2010-07-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2010-07-01T00:00:00Z,10.0
+Denmark,DK,Licensed Stores,2010-07-01T00:00:00Z,2.0
+Egypt,EG,Licensed Stores,2010-07-01T00:00:00Z,22.0
+El Salvador,SV,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Finland,FI,Licensed Stores,2010-07-01T00:00:00Z,0.0
+France,FR,Licensed Stores,2010-07-01T00:00:00Z,2.0
+Germany,DE,Licensed Stores,2010-07-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2010-07-01T00:00:00Z,60.0
+Guatemala,GT,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Hong Kong/Macau,,Licensed Stores,2010-07-01T00:00:00Z,112.0
+Hungary,HU,Licensed Stores,2010-07-01T00:00:00Z,1.0
+Indonesia,ID,Licensed Stores,2010-07-01T00:00:00Z,80.0
+Ireland,IE,Licensed Stores,2010-07-01T00:00:00Z,23.0
+Japan,JP,Licensed Stores,2010-07-01T00:00:00Z,886.0
+Jordan,JO,Licensed Stores,2010-07-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2010-07-01T00:00:00Z,67.0
+Lebanon,LB,Licensed Stores,2010-07-01T00:00:00Z,14.0
+Malaysia,MY,Licensed Stores,2010-07-01T00:00:00Z,115.0
+Mexico,MX,Licensed Stores,2010-07-01T00:00:00Z,273.0
+Monaco,MC,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2010-07-01T00:00:00Z,0.0
+New Zealand,NZ,Licensed Stores,2010-07-01T00:00:00Z,39.0
+Norway,NO,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Oman,OM,Licensed Stores,2010-07-01T00:00:00Z,7.0
+Panama,PA,Licensed Stores,2010-07-01T00:00:00Z,27.0
+Peru,PE,Licensed Stores,2010-07-01T00:00:00Z,27.0
+Philippines,PH,Licensed Stores,2010-07-01T00:00:00Z,162.0
+Poland,PL,Licensed Stores,2010-07-01T00:00:00Z,5.0
+Portugal,PT,Licensed Stores,2010-07-01T00:00:00Z,6.0
+Puerto Rico,US_RQ,Licensed Stores,2010-07-01T00:00:00Z,27.0
+Qatar,QA,Licensed Stores,2010-07-01T00:00:00Z,9.0
+Romania,RO,Licensed Stores,2010-07-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2010-07-01T00:00:00Z,35.0
+Saudi Arabia,SA,Licensed Stores,2010-07-01T00:00:00Z,69.0
+Singapore,SG,Licensed Stores,2010-07-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2010-07-01T00:00:00Z,299.0
+Spain,ES,Licensed Stores,2010-07-01T00:00:00Z,75.0
+Sweden,SE,Licensed Stores,2010-07-01T00:00:00Z,1.0
+Switzerland,CH,Licensed Stores,2010-07-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2010-07-01T00:00:00Z,229.0
+Turkey,TR,Licensed Stores,2010-07-01T00:00:00Z,132.0
+UAE - Dubai,AE,Licensed Stores,2010-07-01T00:00:00Z,95.0
+United Kingdom,GB,Licensed Stores,2010-07-01T00:00:00Z,106.0
+United States,US,Licensed Stores,2010-07-01T00:00:00Z,3847.0
+Vietnam,VN,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2010-07-01T00:00:00Z,8.0
+Jamaica,JM,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2010-07-01T00:00:00Z,7.0
+Slovakia,SK,Licensed Stores,2010-07-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Total,,Licensed Stores,2010-07-01T00:00:00Z,15904.0
+Trinidad and Tobago,TT,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2010-07-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2010-10-01T00:00:00Z,24.0
+Aruba,,Licensed Stores,2010-10-01T00:00:00Z,2.0
+Australia,AU,Licensed Stores,2010-10-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2010-10-01T00:00:00Z,11.0
+Belgium,BE,Licensed Stores,2010-10-01T00:00:00Z,4.0
+Brazil,BR,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2010-10-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2010-10-01T00:00:00Z,273.0
+Chile,CL,Licensed Stores,2010-10-01T00:00:00Z,30.0
+China,CN,Licensed Stores,2010-10-01T00:00:00Z,186.0
+Colombia,CO,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Curacao,,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Cyprus,CY,Licensed Stores,2010-10-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2010-10-01T00:00:00Z,11.0
+Denmark,DK,Licensed Stores,2010-10-01T00:00:00Z,2.0
+Egypt,EG,Licensed Stores,2010-10-01T00:00:00Z,22.0
+El Salvador,SV,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Finland,FI,Licensed Stores,2010-10-01T00:00:00Z,0.0
+France,FR,Licensed Stores,2010-10-01T00:00:00Z,2.0
+Germany,DE,Licensed Stores,2010-10-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2010-10-01T00:00:00Z,60.0
+Guatemala,GT,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Hong Kong/Macau,,Licensed Stores,2010-10-01T00:00:00Z,111.0
+Hungary,HU,Licensed Stores,2010-10-01T00:00:00Z,1.0
+Indonesia,ID,Licensed Stores,2010-10-01T00:00:00Z,85.0
+Ireland,IE,Licensed Stores,2010-10-01T00:00:00Z,22.0
+Japan,JP,Licensed Stores,2010-10-01T00:00:00Z,892.0
+Jordan,JO,Licensed Stores,2010-10-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2010-10-01T00:00:00Z,66.0
+Lebanon,LB,Licensed Stores,2010-10-01T00:00:00Z,14.0
+Malaysia,MY,Licensed Stores,2010-10-01T00:00:00Z,117.0
+Mexico,MX,Licensed Stores,2010-10-01T00:00:00Z,283.0
+Monaco,MC,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2010-10-01T00:00:00Z,0.0
+New Zealand,NZ,Licensed Stores,2010-10-01T00:00:00Z,39.0
+Norway,NO,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Oman,OM,Licensed Stores,2010-10-01T00:00:00Z,7.0
+Panama,PA,Licensed Stores,2010-10-01T00:00:00Z,29.0
+Peru,PE,Licensed Stores,2010-10-01T00:00:00Z,29.0
+Philippines,PH,Licensed Stores,2010-10-01T00:00:00Z,168.0
+Poland,PL,Licensed Stores,2010-10-01T00:00:00Z,7.0
+Portugal,PT,Licensed Stores,2010-10-01T00:00:00Z,6.0
+Puerto Rico,US_RQ,Licensed Stores,2010-10-01T00:00:00Z,29.0
+Qatar,QA,Licensed Stores,2010-10-01T00:00:00Z,10.0
+Romania,RO,Licensed Stores,2010-10-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2010-10-01T00:00:00Z,37.0
+Saudi Arabia,SA,Licensed Stores,2010-10-01T00:00:00Z,69.0
+Singapore,SG,Licensed Stores,2010-10-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2010-10-01T00:00:00Z,315.0
+Spain,ES,Licensed Stores,2010-10-01T00:00:00Z,75.0
+Sweden,SE,Licensed Stores,2010-10-01T00:00:00Z,1.0
+Switzerland,CH,Licensed Stores,2010-10-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2010-10-01T00:00:00Z,228.0
+Turkey,TR,Licensed Stores,2010-10-01T00:00:00Z,137.0
+UAE - Dubai,AE,Licensed Stores,2010-10-01T00:00:00Z,95.0
+United Kingdom,GB,Licensed Stores,2010-10-01T00:00:00Z,135.0
+United States,US,Licensed Stores,2010-10-01T00:00:00Z,3867.0
+Vietnam,VN,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2010-10-01T00:00:00Z,8.0
+Jamaica,JM,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2010-10-01T00:00:00Z,8.0
+Slovakia,SK,Licensed Stores,2010-10-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Total,,Licensed Stores,2010-10-01T00:00:00Z,16142.0
+Trinidad and Tobago,TT,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2010-10-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2011-01-01T00:00:00Z,30.0
+Aruba,,Licensed Stores,2011-01-01T00:00:00Z,2.0
+Australia,AU,Licensed Stores,2011-01-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2011-01-01T00:00:00Z,11.0
+Belgium,BE,Licensed Stores,2011-01-01T00:00:00Z,4.0
+Brazil,BR,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2011-01-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2011-01-01T00:00:00Z,274.0
+Chile,CL,Licensed Stores,2011-01-01T00:00:00Z,31.0
+China,CN,Licensed Stores,2011-01-01T00:00:00Z,194.0
+Colombia,CO,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Curacao,,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Cyprus,CY,Licensed Stores,2011-01-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2011-01-01T00:00:00Z,12.0
+Denmark,DK,Licensed Stores,2011-01-01T00:00:00Z,2.0
+Egypt,EG,Licensed Stores,2011-01-01T00:00:00Z,22.0
+El Salvador,SV,Licensed Stores,2011-01-01T00:00:00Z,2.0
+Finland,FI,Licensed Stores,2011-01-01T00:00:00Z,0.0
+France,FR,Licensed Stores,2011-01-01T00:00:00Z,3.0
+Germany,DE,Licensed Stores,2011-01-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2011-01-01T00:00:00Z,60.0
+Guatemala,GT,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Hong Kong/Macau,,Licensed Stores,2011-01-01T00:00:00Z,111.0
+Hungary,HU,Licensed Stores,2011-01-01T00:00:00Z,3.0
+Indonesia,ID,Licensed Stores,2011-01-01T00:00:00Z,90.0
+Ireland,IE,Licensed Stores,2011-01-01T00:00:00Z,22.0
+Japan,JP,Licensed Stores,2011-01-01T00:00:00Z,901.0
+Jordan,JO,Licensed Stores,2011-01-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2011-01-01T00:00:00Z,68.0
+Lebanon,LB,Licensed Stores,2011-01-01T00:00:00Z,14.0
+Malaysia,MY,Licensed Stores,2011-01-01T00:00:00Z,116.0
+Mexico,MX,Licensed Stores,2011-01-01T00:00:00Z,296.0
+Monaco,MC,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2011-01-01T00:00:00Z,0.0
+New Zealand,NZ,Licensed Stores,2011-01-01T00:00:00Z,38.0
+Norway,NO,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Oman,OM,Licensed Stores,2011-01-01T00:00:00Z,7.0
+Panama,PA,Licensed Stores,2011-01-01T00:00:00Z,30.0
+Peru,PE,Licensed Stores,2011-01-01T00:00:00Z,30.0
+Philippines,PH,Licensed Stores,2011-01-01T00:00:00Z,175.0
+Poland,PL,Licensed Stores,2011-01-01T00:00:00Z,9.0
+Portugal,PT,Licensed Stores,2011-01-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2011-01-01T00:00:00Z,30.0
+Qatar,QA,Licensed Stores,2011-01-01T00:00:00Z,10.0
+Romania,RO,Licensed Stores,2011-01-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2011-01-01T00:00:00Z,43.0
+Saudi Arabia,SA,Licensed Stores,2011-01-01T00:00:00Z,69.0
+Singapore,SG,Licensed Stores,2011-01-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2011-01-01T00:00:00Z,323.0
+Spain,ES,Licensed Stores,2011-01-01T00:00:00Z,76.0
+Sweden,SE,Licensed Stores,2011-01-01T00:00:00Z,1.0
+Switzerland,CH,Licensed Stores,2011-01-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2011-01-01T00:00:00Z,232.0
+Turkey,TR,Licensed Stores,2011-01-01T00:00:00Z,138.0
+UAE - Dubai,AE,Licensed Stores,2011-01-01T00:00:00Z,97.0
+United Kingdom,GB,Licensed Stores,2011-01-01T00:00:00Z,138.0
+United States,US,Licensed Stores,2011-01-01T00:00:00Z,3901.0
+Vietnam,VN,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2011-01-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2011-01-01T00:00:00Z,8.0
+Slovakia,SK,Licensed Stores,2011-01-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Total,,Licensed Stores,2011-01-01T00:00:00Z,16370.0
+Trinidad and Tobago,TT,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2011-01-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2011-04-01T00:00:00Z,32.0
+Aruba,,Licensed Stores,2011-04-01T00:00:00Z,2.0
+Australia,AU,Licensed Stores,2011-04-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2011-04-01T00:00:00Z,11.0
+Belgium,BE,Licensed Stores,2011-04-01T00:00:00Z,4.0
+Brazil,BR,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2011-04-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2011-04-01T00:00:00Z,273.0
+Chile,CL,Licensed Stores,2011-04-01T00:00:00Z,31.0
+China,CN,Licensed Stores,2011-04-01T00:00:00Z,198.0
+Colombia,CO,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Curacao,,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Cyprus,CY,Licensed Stores,2011-04-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2011-04-01T00:00:00Z,12.0
+Denmark,DK,Licensed Stores,2011-04-01T00:00:00Z,2.0
+Egypt,EG,Licensed Stores,2011-04-01T00:00:00Z,22.0
+El Salvador,SV,Licensed Stores,2011-04-01T00:00:00Z,2.0
+Finland,FI,Licensed Stores,2011-04-01T00:00:00Z,0.0
+France,FR,Licensed Stores,2011-04-01T00:00:00Z,3.0
+Germany,DE,Licensed Stores,2011-04-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2011-04-01T00:00:00Z,60.0
+Guatemala,GT,Licensed Stores,2011-04-01T00:00:00Z,1.0
+Hong Kong/Macau,,Licensed Stores,2011-04-01T00:00:00Z,112.0
+Hungary,HU,Licensed Stores,2011-04-01T00:00:00Z,3.0
+Indonesia,ID,Licensed Stores,2011-04-01T00:00:00Z,96.0
+Ireland,IE,Licensed Stores,2011-04-01T00:00:00Z,22.0
+Japan,JP,Licensed Stores,2011-04-01T00:00:00Z,914.0
+Jordan,JO,Licensed Stores,2011-04-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2011-04-01T00:00:00Z,67.0
+Lebanon,LB,Licensed Stores,2011-04-01T00:00:00Z,14.0
+Malaysia,MY,Licensed Stores,2011-04-01T00:00:00Z,119.0
+Mexico,MX,Licensed Stores,2011-04-01T00:00:00Z,304.0
+Monaco,MC,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2011-04-01T00:00:00Z,0.0
+New Zealand,NZ,Licensed Stores,2011-04-01T00:00:00Z,37.0
+Norway,NO,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Oman,OM,Licensed Stores,2011-04-01T00:00:00Z,7.0
+Panama,PA,Licensed Stores,2011-04-01T00:00:00Z,32.0
+Peru,PE,Licensed Stores,2011-04-01T00:00:00Z,32.0
+Philippines,PH,Licensed Stores,2011-04-01T00:00:00Z,176.0
+Poland,PL,Licensed Stores,2011-04-01T00:00:00Z,9.0
+Portugal,PT,Licensed Stores,2011-04-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2011-04-01T00:00:00Z,32.0
+Qatar,QA,Licensed Stores,2011-04-01T00:00:00Z,10.0
+Romania,RO,Licensed Stores,2011-04-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2011-04-01T00:00:00Z,47.0
+Saudi Arabia,SA,Licensed Stores,2011-04-01T00:00:00Z,67.0
+Singapore,SG,Licensed Stores,2011-04-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2011-04-01T00:00:00Z,330.0
+Spain,ES,Licensed Stores,2011-04-01T00:00:00Z,76.0
+Sweden,SE,Licensed Stores,2011-04-01T00:00:00Z,1.0
+Switzerland,CH,Licensed Stores,2011-04-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2011-04-01T00:00:00Z,239.0
+Turkey,TR,Licensed Stores,2011-04-01T00:00:00Z,141.0
+UAE - Dubai,AE,Licensed Stores,2011-04-01T00:00:00Z,95.0
+United Kingdom,GB,Licensed Stores,2011-04-01T00:00:00Z,146.0
+United States,US,Licensed Stores,2011-04-01T00:00:00Z,3906.0
+Vietnam,VN,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2011-04-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2011-04-01T00:00:00Z,10.0
+Slovakia,SK,Licensed Stores,2011-04-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Total,,Licensed Stores,2011-04-01T00:00:00Z,16058.0
+Trinidad and Tobago,TT,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2011-04-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2011-07-01T00:00:00Z,33.0
+Aruba,,Licensed Stores,2011-07-01T00:00:00Z,2.0
+Australia,AU,Licensed Stores,2011-07-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2011-07-01T00:00:00Z,11.0
+Belgium,BE,Licensed Stores,2011-07-01T00:00:00Z,5.0
+Brazil,BR,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2011-07-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2011-07-01T00:00:00Z,275.0
+Chile,CL,Licensed Stores,2011-07-01T00:00:00Z,31.0
+China,CN,Licensed Stores,2011-07-01T00:00:00Z,207.0
+Colombia,CO,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Curacao,,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Cyprus,CY,Licensed Stores,2011-07-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2011-07-01T00:00:00Z,12.0
+Denmark,DK,Licensed Stores,2011-07-01T00:00:00Z,3.0
+Egypt,EG,Licensed Stores,2011-07-01T00:00:00Z,22.0
+El Salvador,SV,Licensed Stores,2011-07-01T00:00:00Z,2.0
+Finland,FI,Licensed Stores,2011-07-01T00:00:00Z,0.0
+France,FR,Licensed Stores,2011-07-01T00:00:00Z,3.0
+Germany,DE,Licensed Stores,2011-07-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2011-07-01T00:00:00Z,59.0
+Guatemala,GT,Licensed Stores,2011-07-01T00:00:00Z,1.0
+Hong Kong/Macau,,Licensed Stores,2011-07-01T00:00:00Z,116.0
+Hungary,HU,Licensed Stores,2011-07-01T00:00:00Z,3.0
+Indonesia,ID,Licensed Stores,2011-07-01T00:00:00Z,102.0
+Ireland,IE,Licensed Stores,2011-07-01T00:00:00Z,24.0
+Japan,JP,Licensed Stores,2011-07-01T00:00:00Z,925.0
+Jordan,JO,Licensed Stores,2011-07-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2011-07-01T00:00:00Z,68.0
+Lebanon,LB,Licensed Stores,2011-07-01T00:00:00Z,15.0
+Malaysia,MY,Licensed Stores,2011-07-01T00:00:00Z,121.0
+Mexico,MX,Licensed Stores,2011-07-01T00:00:00Z,314.0
+Monaco,MC,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2011-07-01T00:00:00Z,0.0
+New Zealand,NZ,Licensed Stores,2011-07-01T00:00:00Z,35.0
+Norway,NO,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Oman,OM,Licensed Stores,2011-07-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2011-07-01T00:00:00Z,34.0
+Peru,PE,Licensed Stores,2011-07-01T00:00:00Z,34.0
+Philippines,PH,Licensed Stores,2011-07-01T00:00:00Z,181.0
+Poland,PL,Licensed Stores,2011-07-01T00:00:00Z,11.0
+Portugal,PT,Licensed Stores,2011-07-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2011-07-01T00:00:00Z,34.0
+Qatar,QA,Licensed Stores,2011-07-01T00:00:00Z,10.0
+Romania,RO,Licensed Stores,2011-07-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2011-07-01T00:00:00Z,50.0
+Saudi Arabia,SA,Licensed Stores,2011-07-01T00:00:00Z,65.0
+Singapore,SG,Licensed Stores,2011-07-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2011-07-01T00:00:00Z,347.0
+Spain,ES,Licensed Stores,2011-07-01T00:00:00Z,74.0
+Sweden,SE,Licensed Stores,2011-07-01T00:00:00Z,1.0
+Switzerland,CH,Licensed Stores,2011-07-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2011-07-01T00:00:00Z,240.0
+Turkey,TR,Licensed Stores,2011-07-01T00:00:00Z,147.0
+UAE - Dubai,AE,Licensed Stores,2011-07-01T00:00:00Z,95.0
+United Kingdom,GB,Licensed Stores,2011-07-01T00:00:00Z,156.0
+United States,US,Licensed Stores,2011-07-01T00:00:00Z,3942.0
+Vietnam,VN,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2011-07-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2011-07-01T00:00:00Z,11.0
+Slovakia,SK,Licensed Stores,2011-07-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Total,,Licensed Stores,2011-07-01T00:00:00Z,16312.0
+Trinidad and Tobago,TT,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2011-07-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2011-10-01T00:00:00Z,39.0
+Aruba,,Licensed Stores,2011-10-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2011-10-01T00:00:00Z,21.0
+Austria,AT,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2011-10-01T00:00:00Z,11.0
+Belgium,BE,Licensed Stores,2011-10-01T00:00:00Z,5.0
+Brazil,BR,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2011-10-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2011-10-01T00:00:00Z,281.0
+Chile,CL,Licensed Stores,2011-10-01T00:00:00Z,35.0
+China,CN,Licensed Stores,2011-10-01T00:00:00Z,218.0
+Colombia,CO,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Curacao,,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Cyprus,CY,Licensed Stores,2011-10-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2011-10-01T00:00:00Z,12.0
+Denmark,DK,Licensed Stores,2011-10-01T00:00:00Z,3.0
+Egypt,EG,Licensed Stores,2011-10-01T00:00:00Z,22.0
+El Salvador,SV,Licensed Stores,2011-10-01T00:00:00Z,3.0
+Finland,FI,Licensed Stores,2011-10-01T00:00:00Z,0.0
+France,FR,Licensed Stores,2011-10-01T00:00:00Z,3.0
+Germany,DE,Licensed Stores,2011-10-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2011-10-01T00:00:00Z,59.0
+Guatemala,GT,Licensed Stores,2011-10-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2011-10-01T00:00:00Z,117.0
+Hungary,HU,Licensed Stores,2011-10-01T00:00:00Z,5.0
+Indonesia,ID,Licensed Stores,2011-10-01T00:00:00Z,109.0
+Ireland,IE,Licensed Stores,2011-10-01T00:00:00Z,23.0
+Japan,JP,Licensed Stores,2011-10-01T00:00:00Z,935.0
+Jordan,JO,Licensed Stores,2011-10-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2011-10-01T00:00:00Z,67.0
+Lebanon,LB,Licensed Stores,2011-10-01T00:00:00Z,16.0
+Malaysia,MY,Licensed Stores,2011-10-01T00:00:00Z,121.0
+Mexico,MX,Licensed Stores,2011-10-01T00:00:00Z,318.0
+Monaco,MC,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2011-10-01T00:00:00Z,0.0
+New Zealand,NZ,Licensed Stores,2011-10-01T00:00:00Z,35.0
+Norway,NO,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Oman,OM,Licensed Stores,2011-10-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2011-10-01T00:00:00Z,36.0
+Peru,PE,Licensed Stores,2011-10-01T00:00:00Z,36.0
+Philippines,PH,Licensed Stores,2011-10-01T00:00:00Z,183.0
+Poland,PL,Licensed Stores,2011-10-01T00:00:00Z,16.0
+Portugal,PT,Licensed Stores,2011-10-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2011-10-01T00:00:00Z,36.0
+Qatar,QA,Licensed Stores,2011-10-01T00:00:00Z,10.0
+Romania,RO,Licensed Stores,2011-10-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2011-10-01T00:00:00Z,52.0
+Saudi Arabia,SA,Licensed Stores,2011-10-01T00:00:00Z,65.0
+Singapore,SG,Licensed Stores,2011-10-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2011-10-01T00:00:00Z,367.0
+Spain,ES,Licensed Stores,2011-10-01T00:00:00Z,75.0
+Sweden,SE,Licensed Stores,2011-10-01T00:00:00Z,1.0
+Switzerland,CH,Licensed Stores,2011-10-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2011-10-01T00:00:00Z,249.0
+Turkey,TR,Licensed Stores,2011-10-01T00:00:00Z,153.0
+UAE - Dubai,AE,Licensed Stores,2011-10-01T00:00:00Z,94.0
+United Kingdom,GB,Licensed Stores,2011-10-01T00:00:00Z,162.0
+United States,US,Licensed Stores,2011-10-01T00:00:00Z,4005.0
+Vietnam,VN,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2011-10-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2011-10-01T00:00:00Z,14.0
+Slovakia,SK,Licensed Stores,2011-10-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Total,,Licensed Stores,2011-10-01T00:00:00Z,16158.0
+Trinidad and Tobago,TT,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2011-10-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2012-01-01T00:00:00Z,50.0
+Aruba,,Licensed Stores,2012-01-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2012-01-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2012-01-01T00:00:00Z,11.0
+Belgium,BE,Licensed Stores,2012-01-01T00:00:00Z,6.0
+Brazil,BR,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2012-01-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2012-01-01T00:00:00Z,291.0
+Chile,CL,Licensed Stores,2012-01-01T00:00:00Z,36.0
+China,CN,Licensed Stores,2012-01-01T00:00:00Z,239.0
+Colombia,CO,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Curacao,,Licensed Stores,2012-01-01T00:00:00Z,1.0
+Cyprus,CY,Licensed Stores,2012-01-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2012-01-01T00:00:00Z,12.0
+Denmark,DK,Licensed Stores,2012-01-01T00:00:00Z,3.0
+Egypt,EG,Licensed Stores,2012-01-01T00:00:00Z,21.0
+El Salvador,SV,Licensed Stores,2012-01-01T00:00:00Z,4.0
+Finland,FI,Licensed Stores,2012-01-01T00:00:00Z,0.0
+France,FR,Licensed Stores,2012-01-01T00:00:00Z,3.0
+Germany,DE,Licensed Stores,2012-01-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2012-01-01T00:00:00Z,52.0
+Guatemala,GT,Licensed Stores,2012-01-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2012-01-01T00:00:00Z,122.0
+Hungary,HU,Licensed Stores,2012-01-01T00:00:00Z,6.0
+Indonesia,ID,Licensed Stores,2012-01-01T00:00:00Z,117.0
+Ireland,IE,Licensed Stores,2012-01-01T00:00:00Z,24.0
+Japan,JP,Licensed Stores,2012-01-01T00:00:00Z,950.0
+Jordan,JO,Licensed Stores,2012-01-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2012-01-01T00:00:00Z,67.0
+Lebanon,LB,Licensed Stores,2012-01-01T00:00:00Z,16.0
+Malaysia,MY,Licensed Stores,2012-01-01T00:00:00Z,123.0
+Mexico,MX,Licensed Stores,2012-01-01T00:00:00Z,338.0
+Monaco,MC,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2012-01-01T00:00:00Z,2.0
+New Zealand,NZ,Licensed Stores,2012-01-01T00:00:00Z,35.0
+Norway,NO,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Oman,OM,Licensed Stores,2012-01-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2012-01-01T00:00:00Z,41.0
+Philippines,PH,Licensed Stores,2012-01-01T00:00:00Z,188.0
+Poland,PL,Licensed Stores,2012-01-01T00:00:00Z,21.0
+Portugal,PT,Licensed Stores,2012-01-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2012-01-01T00:00:00Z,10.0
+Romania,RO,Licensed Stores,2012-01-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2012-01-01T00:00:00Z,53.0
+Saudi Arabia,SA,Licensed Stores,2012-01-01T00:00:00Z,63.0
+Singapore,SG,Licensed Stores,2012-01-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2012-01-01T00:00:00Z,391.0
+Spain,ES,Licensed Stores,2012-01-01T00:00:00Z,75.0
+Sweden,SE,Licensed Stores,2012-01-01T00:00:00Z,1.0
+Switzerland,CH,Licensed Stores,2012-01-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2012-01-01T00:00:00Z,255.0
+Turkey,TR,Licensed Stores,2012-01-01T00:00:00Z,159.0
+UAE - Dubai,AE,Licensed Stores,2012-01-01T00:00:00Z,98.0
+United Kingdom,GB,Licensed Stores,2012-01-01T00:00:00Z,166.0
+United States,US,Licensed Stores,2012-01-01T00:00:00Z,4041.0
+Vietnam,VN,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2012-01-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2012-01-01T00:00:00Z,16.0
+Slovakia,SK,Licensed Stores,2012-01-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Total,,Licensed Stores,2012-01-01T00:00:00Z,16536.0
+Trinidad and Tobago,TT,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2012-01-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2012-04-01T00:00:00Z,51.0
+Aruba,,Licensed Stores,2012-04-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2012-04-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2012-04-01T00:00:00Z,12.0
+Belgium,BE,Licensed Stores,2012-04-01T00:00:00Z,6.0
+Brazil,BR,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2012-04-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2012-04-01T00:00:00Z,292.0
+Chile,CL,Licensed Stores,2012-04-01T00:00:00Z,37.0
+China,CN,Licensed Stores,2012-04-01T00:00:00Z,247.0
+Colombia,CO,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Curacao,,Licensed Stores,2012-04-01T00:00:00Z,1.0
+Cyprus,CY,Licensed Stores,2012-04-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2012-04-01T00:00:00Z,13.0
+Denmark,DK,Licensed Stores,2012-04-01T00:00:00Z,3.0
+Egypt,EG,Licensed Stores,2012-04-01T00:00:00Z,21.0
+El Salvador,SV,Licensed Stores,2012-04-01T00:00:00Z,4.0
+Finland,FI,Licensed Stores,2012-04-01T00:00:00Z,0.0
+France,FR,Licensed Stores,2012-04-01T00:00:00Z,4.0
+Germany,DE,Licensed Stores,2012-04-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2012-04-01T00:00:00Z,46.0
+Guatemala,GT,Licensed Stores,2012-04-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2012-04-01T00:00:00Z,122.0
+Hungary,HU,Licensed Stores,2012-04-01T00:00:00Z,6.0
+Indonesia,ID,Licensed Stores,2012-04-01T00:00:00Z,122.0
+Ireland,IE,Licensed Stores,2012-04-01T00:00:00Z,25.0
+Japan,JP,Licensed Stores,2012-04-01T00:00:00Z,955.0
+Jordan,JO,Licensed Stores,2012-04-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2012-04-01T00:00:00Z,67.0
+Lebanon,LB,Licensed Stores,2012-04-01T00:00:00Z,16.0
+Malaysia,MY,Licensed Stores,2012-04-01T00:00:00Z,125.0
+Mexico,MX,Licensed Stores,2012-04-01T00:00:00Z,342.0
+Monaco,MC,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2012-04-01T00:00:00Z,3.0
+New Zealand,NZ,Licensed Stores,2012-04-01T00:00:00Z,35.0
+Norway,NO,Licensed Stores,2012-04-01T00:00:00Z,1.0
+Oman,OM,Licensed Stores,2012-04-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2012-04-01T00:00:00Z,43.0
+Philippines,PH,Licensed Stores,2012-04-01T00:00:00Z,190.0
+Poland,PL,Licensed Stores,2012-04-01T00:00:00Z,23.0
+Portugal,PT,Licensed Stores,2012-04-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2012-04-01T00:00:00Z,11.0
+Romania,RO,Licensed Stores,2012-04-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2012-04-01T00:00:00Z,56.0
+Saudi Arabia,SA,Licensed Stores,2012-04-01T00:00:00Z,63.0
+Singapore,SG,Licensed Stores,2012-04-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2012-04-01T00:00:00Z,415.0
+Spain,ES,Licensed Stores,2012-04-01T00:00:00Z,75.0
+Sweden,SE,Licensed Stores,2012-04-01T00:00:00Z,3.0
+Switzerland,CH,Licensed Stores,2012-04-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2012-04-01T00:00:00Z,264.0
+Turkey,TR,Licensed Stores,2012-04-01T00:00:00Z,162.0
+UAE - Dubai,AE,Licensed Stores,2012-04-01T00:00:00Z,98.0
+United Kingdom,GB,Licensed Stores,2012-04-01T00:00:00Z,172.0
+United States,US,Licensed Stores,2012-04-01T00:00:00Z,4083.0
+Vietnam,VN,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2012-04-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2012-04-01T00:00:00Z,19.0
+Slovakia,SK,Licensed Stores,2012-04-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Total,,Licensed Stores,2012-04-01T00:00:00Z,16790.0
+Trinidad and Tobago,TT,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2012-04-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2012-07-01T00:00:00Z,54.0
+Aruba,,Licensed Stores,2012-07-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2012-07-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2012-07-01T00:00:00Z,13.0
+Belgium,BE,Licensed Stores,2012-07-01T00:00:00Z,6.0
+Brazil,BR,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2012-07-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2012-07-01T00:00:00Z,291.0
+Chile,CL,Licensed Stores,2012-07-01T00:00:00Z,40.0
+China,CN,Licensed Stores,2012-07-01T00:00:00Z,264.0
+Colombia,CO,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2012-07-01T00:00:00Z,1.0
+Curacao,,Licensed Stores,2012-07-01T00:00:00Z,1.0
+Cyprus,CY,Licensed Stores,2012-07-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2012-07-01T00:00:00Z,13.0
+Denmark,DK,Licensed Stores,2012-07-01T00:00:00Z,3.0
+Egypt,EG,Licensed Stores,2012-07-01T00:00:00Z,21.0
+El Salvador,SV,Licensed Stores,2012-07-01T00:00:00Z,4.0
+Finland,FI,Licensed Stores,2012-07-01T00:00:00Z,1.0
+France,FR,Licensed Stores,2012-07-01T00:00:00Z,8.0
+Germany,DE,Licensed Stores,2012-07-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2012-07-01T00:00:00Z,46.0
+Guatemala,GT,Licensed Stores,2012-07-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2012-07-01T00:00:00Z,126.0
+Hungary,HU,Licensed Stores,2012-07-01T00:00:00Z,7.0
+Indonesia,ID,Licensed Stores,2012-07-01T00:00:00Z,127.0
+Ireland,IE,Licensed Stores,2012-07-01T00:00:00Z,28.0
+Japan,JP,Licensed Stores,2012-07-01T00:00:00Z,966.0
+Jordan,JO,Licensed Stores,2012-07-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2012-07-01T00:00:00Z,67.0
+Lebanon,LB,Licensed Stores,2012-07-01T00:00:00Z,16.0
+Malaysia,MY,Licensed Stores,2012-07-01T00:00:00Z,130.0
+Mexico,MX,Licensed Stores,2012-07-01T00:00:00Z,349.0
+Monaco,MC,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2012-07-01T00:00:00Z,3.0
+New Zealand,NZ,Licensed Stores,2012-07-01T00:00:00Z,34.0
+Norway,NO,Licensed Stores,2012-07-01T00:00:00Z,1.0
+Oman,OM,Licensed Stores,2012-07-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2012-07-01T00:00:00Z,44.0
+Philippines,PH,Licensed Stores,2012-07-01T00:00:00Z,195.0
+Poland,PL,Licensed Stores,2012-07-01T00:00:00Z,28.0
+Portugal,PT,Licensed Stores,2012-07-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2012-07-01T00:00:00Z,11.0
+Romania,RO,Licensed Stores,2012-07-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2012-07-01T00:00:00Z,56.0
+Saudi Arabia,SA,Licensed Stores,2012-07-01T00:00:00Z,63.0
+Singapore,SG,Licensed Stores,2012-07-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2012-07-01T00:00:00Z,442.0
+Spain,ES,Licensed Stores,2012-07-01T00:00:00Z,76.0
+Sweden,SE,Licensed Stores,2012-07-01T00:00:00Z,3.0
+Switzerland,CH,Licensed Stores,2012-07-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2012-07-01T00:00:00Z,271.0
+Turkey,TR,Licensed Stores,2012-07-01T00:00:00Z,169.0
+UAE - Dubai,AE,Licensed Stores,2012-07-01T00:00:00Z,97.0
+United Kingdom,GB,Licensed Stores,2012-07-01T00:00:00Z,183.0
+United States,US,Licensed Stores,2012-07-01T00:00:00Z,4107.0
+Vietnam,VN,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2012-07-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2012-07-01T00:00:00Z,20.0
+Slovakia,SK,Licensed Stores,2012-07-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Total,,Licensed Stores,2012-07-01T00:00:00Z,17096.0
+Trinidad and Tobago,TT,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2012-07-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2012-10-01T00:00:00Z,61.0
+Aruba,,Licensed Stores,2012-10-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2012-10-01T00:00:00Z,23.0
+Austria,AT,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2012-10-01T00:00:00Z,13.0
+Belgium,BE,Licensed Stores,2012-10-01T00:00:00Z,9.0
+Brazil,BR,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2012-10-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2012-10-01T00:00:00Z,300.0
+Chile,CL,Licensed Stores,2012-10-01T00:00:00Z,41.0
+China,CN,Licensed Stores,2012-10-01T00:00:00Z,292.0
+Colombia,CO,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2012-10-01T00:00:00Z,1.0
+Curacao,,Licensed Stores,2012-10-01T00:00:00Z,1.0
+Cyprus,CY,Licensed Stores,2012-10-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2012-10-01T00:00:00Z,14.0
+Denmark,DK,Licensed Stores,2012-10-01T00:00:00Z,3.0
+Egypt,EG,Licensed Stores,2012-10-01T00:00:00Z,23.0
+El Salvador,SV,Licensed Stores,2012-10-01T00:00:00Z,4.0
+Finland,FI,Licensed Stores,2012-10-01T00:00:00Z,1.0
+France,FR,Licensed Stores,2012-10-01T00:00:00Z,11.0
+Germany,DE,Licensed Stores,2012-10-01T00:00:00Z,1.0
+Greece,GR,Licensed Stores,2012-10-01T00:00:00Z,42.0
+Guatemala,GT,Licensed Stores,2012-10-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2012-10-01T00:00:00Z,131.0
+Hungary,HU,Licensed Stores,2012-10-01T00:00:00Z,7.0
+Indonesia,ID,Licensed Stores,2012-10-01T00:00:00Z,133.0
+Ireland,IE,Licensed Stores,2012-10-01T00:00:00Z,27.0
+Japan,JP,Licensed Stores,2012-10-01T00:00:00Z,965.0
+Jordan,JO,Licensed Stores,2012-10-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2012-10-01T00:00:00Z,65.0
+Lebanon,LB,Licensed Stores,2012-10-01T00:00:00Z,16.0
+Malaysia,MY,Licensed Stores,2012-10-01T00:00:00Z,134.0
+Mexico,MX,Licensed Stores,2012-10-01T00:00:00Z,356.0
+Monaco,MC,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2012-10-01T00:00:00Z,3.0
+New Zealand,NZ,Licensed Stores,2012-10-01T00:00:00Z,34.0
+Norway,NO,Licensed Stores,2012-10-01T00:00:00Z,1.0
+Oman,OM,Licensed Stores,2012-10-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2012-10-01T00:00:00Z,45.0
+Philippines,PH,Licensed Stores,2012-10-01T00:00:00Z,201.0
+Poland,PL,Licensed Stores,2012-10-01T00:00:00Z,29.0
+Portugal,PT,Licensed Stores,2012-10-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2012-10-01T00:00:00Z,12.0
+Romania,RO,Licensed Stores,2012-10-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2012-10-01T00:00:00Z,60.0
+Saudi Arabia,SA,Licensed Stores,2012-10-01T00:00:00Z,64.0
+Singapore,SG,Licensed Stores,2012-10-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2012-10-01T00:00:00Z,467.0
+Spain,ES,Licensed Stores,2012-10-01T00:00:00Z,78.0
+Sweden,SE,Licensed Stores,2012-10-01T00:00:00Z,3.0
+Switzerland,CH,Licensed Stores,2012-10-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2012-10-01T00:00:00Z,271.0
+Turkey,TR,Licensed Stores,2012-10-01T00:00:00Z,171.0
+UAE - Dubai,AE,Licensed Stores,2012-10-01T00:00:00Z,99.0
+United Kingdom,GB,Licensed Stores,2012-10-01T00:00:00Z,195.0
+United States,US,Licensed Stores,2012-10-01T00:00:00Z,4189.0
+Vietnam,VN,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2012-10-01T00:00:00Z,8.0
+Jamaica,JM,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2012-10-01T00:00:00Z,23.0
+Slovakia,SK,Licensed Stores,2012-10-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Total,,Licensed Stores,2012-10-01T00:00:00Z,17504.0
+Trinidad and Tobago,TT,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2012-10-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2013-01-01T00:00:00Z,64.0
+Aruba,,Licensed Stores,2013-01-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2013-01-01T00:00:00Z,24.0
+Austria,AT,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2013-01-01T00:00:00Z,14.0
+Belgium,BE,Licensed Stores,2013-01-01T00:00:00Z,9.0
+Brazil,BR,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2013-01-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2013-01-01T00:00:00Z,302.0
+Chile,CL,Licensed Stores,2013-01-01T00:00:00Z,42.0
+China,CN,Licensed Stores,2013-01-01T00:00:00Z,325.0
+Colombia,CO,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2013-01-01T00:00:00Z,2.0
+Curacao,,Licensed Stores,2013-01-01T00:00:00Z,1.0
+Cyprus,CY,Licensed Stores,2013-01-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2013-01-01T00:00:00Z,14.0
+Denmark,DK,Licensed Stores,2013-01-01T00:00:00Z,4.0
+Egypt,EG,Licensed Stores,2013-01-01T00:00:00Z,23.0
+El Salvador,SV,Licensed Stores,2013-01-01T00:00:00Z,4.0
+Finland,FI,Licensed Stores,2013-01-01T00:00:00Z,2.0
+France,FR,Licensed Stores,2013-01-01T00:00:00Z,13.0
+Germany,DE,Licensed Stores,2013-01-01T00:00:00Z,3.0
+Greece,GR,Licensed Stores,2013-01-01T00:00:00Z,34.0
+Guatemala,GT,Licensed Stores,2013-01-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2013-01-01T00:00:00Z,135.0
+Hungary,HU,Licensed Stores,2013-01-01T00:00:00Z,7.0
+Indonesia,ID,Licensed Stores,2013-01-01T00:00:00Z,139.0
+Ireland,IE,Licensed Stores,2013-01-01T00:00:00Z,27.0
+Japan,JP,Licensed Stores,2013-01-01T00:00:00Z,975.0
+Jordan,JO,Licensed Stores,2013-01-01T00:00:00Z,9.0
+Kazakhstan,KZ,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2013-01-01T00:00:00Z,66.0
+Lebanon,LB,Licensed Stores,2013-01-01T00:00:00Z,15.0
+Malaysia,MY,Licensed Stores,2013-01-01T00:00:00Z,140.0
+Mexico,MX,Licensed Stores,2013-01-01T00:00:00Z,368.0
+Monaco,MC,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2013-01-01T00:00:00Z,3.0
+New Zealand,NZ,Licensed Stores,2013-01-01T00:00:00Z,30.0
+Norway,NO,Licensed Stores,2013-01-01T00:00:00Z,1.0
+Oman,OM,Licensed Stores,2013-01-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2013-01-01T00:00:00Z,54.0
+Philippines,PH,Licensed Stores,2013-01-01T00:00:00Z,207.0
+Poland,PL,Licensed Stores,2013-01-01T00:00:00Z,32.0
+Portugal,PT,Licensed Stores,2013-01-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2013-01-01T00:00:00Z,12.0
+Romania,RO,Licensed Stores,2013-01-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2013-01-01T00:00:00Z,64.0
+Saudi Arabia,SA,Licensed Stores,2013-01-01T00:00:00Z,65.0
+Singapore,SG,Licensed Stores,2013-01-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2013-01-01T00:00:00Z,472.0
+Spain,ES,Licensed Stores,2013-01-01T00:00:00Z,79.0
+Sweden,SE,Licensed Stores,2013-01-01T00:00:00Z,3.0
+Switzerland,CH,Licensed Stores,2013-01-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2013-01-01T00:00:00Z,280.0
+Turkey,TR,Licensed Stores,2013-01-01T00:00:00Z,176.0
+UAE - Dubai,AE,Licensed Stores,2013-01-01T00:00:00Z,105.0
+United Kingdom,GB,Licensed Stores,2013-01-01T00:00:00Z,201.0
+United States,US,Licensed Stores,2013-01-01T00:00:00Z,4222.0
+Vietnam,VN,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Andorra,AD,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2013-01-01T00:00:00Z,8.0
+Jamaica,JM,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2013-01-01T00:00:00Z,25.0
+Slovakia,SK,Licensed Stores,2013-01-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Total,,Licensed Stores,2013-01-01T00:00:00Z,17818.0
+Trinidad and Tobago,TT,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2013-01-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2013-04-01T00:00:00Z,64.0
+Aruba,,Licensed Stores,2013-04-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2013-04-01T00:00:00Z,24.0
+Austria,AT,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2013-04-01T00:00:00Z,15.0
+Belgium,BE,Licensed Stores,2013-04-01T00:00:00Z,9.0
+Brazil,BR,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2013-04-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2013-04-01T00:00:00Z,325.0
+Chile,CL,Licensed Stores,2013-04-01T00:00:00Z,43.0
+China,CN,Licensed Stores,2013-04-01T00:00:00Z,345.0
+Colombia,CO,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2013-04-01T00:00:00Z,2.0
+Curacao,,Licensed Stores,2013-04-01T00:00:00Z,1.0
+Cyprus,CY,Licensed Stores,2013-04-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2013-04-01T00:00:00Z,15.0
+Denmark,DK,Licensed Stores,2013-04-01T00:00:00Z,4.0
+Egypt,EG,Licensed Stores,2013-04-01T00:00:00Z,24.0
+El Salvador,SV,Licensed Stores,2013-04-01T00:00:00Z,4.0
+Finland,FI,Licensed Stores,2013-04-01T00:00:00Z,2.0
+France,FR,Licensed Stores,2013-04-01T00:00:00Z,13.0
+Germany,DE,Licensed Stores,2013-04-01T00:00:00Z,3.0
+Greece,GR,Licensed Stores,2013-04-01T00:00:00Z,34.0
+Guatemala,GT,Licensed Stores,2013-04-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2013-04-01T00:00:00Z,135.0
+Hungary,HU,Licensed Stores,2013-04-01T00:00:00Z,7.0
+Indonesia,ID,Licensed Stores,2013-04-01T00:00:00Z,147.0
+Ireland,IE,Licensed Stores,2013-04-01T00:00:00Z,29.0
+Japan,JP,Licensed Stores,2013-04-01T00:00:00Z,985.0
+Jordan,JO,Licensed Stores,2013-04-01T00:00:00Z,11.0
+Kazakhstan,KZ,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2013-04-01T00:00:00Z,67.0
+Lebanon,LB,Licensed Stores,2013-04-01T00:00:00Z,15.0
+Malaysia,MY,Licensed Stores,2013-04-01T00:00:00Z,141.0
+Mexico,MX,Licensed Stores,2013-04-01T00:00:00Z,377.0
+Monaco,MC,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2013-04-01T00:00:00Z,4.0
+New Zealand,NZ,Licensed Stores,2013-04-01T00:00:00Z,30.0
+Norway,NO,Licensed Stores,2013-04-01T00:00:00Z,1.0
+Oman,OM,Licensed Stores,2013-04-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2013-04-01T00:00:00Z,56.0
+Philippines,PH,Licensed Stores,2013-04-01T00:00:00Z,205.0
+Poland,PL,Licensed Stores,2013-04-01T00:00:00Z,33.0
+Portugal,PT,Licensed Stores,2013-04-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2013-04-01T00:00:00Z,12.0
+Romania,RO,Licensed Stores,2013-04-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2013-04-01T00:00:00Z,63.0
+Saudi Arabia,SA,Licensed Stores,2013-04-01T00:00:00Z,65.0
+Singapore,SG,Licensed Stores,2013-04-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2013-04-01T00:00:00Z,501.0
+Spain,ES,Licensed Stores,2013-04-01T00:00:00Z,79.0
+Sweden,SE,Licensed Stores,2013-04-01T00:00:00Z,4.0
+Switzerland,CH,Licensed Stores,2013-04-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2013-04-01T00:00:00Z,286.0
+Turkey,TR,Licensed Stores,2013-04-01T00:00:00Z,181.0
+UAE - Dubai,AE,Licensed Stores,2013-04-01T00:00:00Z,106.0
+United Kingdom,GB,Licensed Stores,2013-04-01T00:00:00Z,211.0
+United States,US,Licensed Stores,2013-04-01T00:00:00Z,4258.0
+Vietnam,VN,Licensed Stores,2013-04-01T00:00:00Z,1.0
+Andorra,AD,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2013-04-01T00:00:00Z,8.0
+Jamaica,JM,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2013-04-01T00:00:00Z,25.0
+Slovakia,SK,Licensed Stores,2013-04-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Total,,Licensed Stores,2013-04-01T00:00:00Z,18214.0
+Trinidad and Tobago,TT,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2013-04-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2013-07-01T00:00:00Z,66.0
+Aruba,,Licensed Stores,2013-07-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2013-07-01T00:00:00Z,24.0
+Austria,AT,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2013-07-01T00:00:00Z,15.0
+Belgium,BE,Licensed Stores,2013-07-01T00:00:00Z,10.0
+Brazil,BR,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2013-07-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2013-07-01T00:00:00Z,355.0
+Chile,CL,Licensed Stores,2013-07-01T00:00:00Z,44.0
+China,CN,Licensed Stores,2013-07-01T00:00:00Z,364.0
+Colombia,CO,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2013-07-01T00:00:00Z,2.0
+Curacao,,Licensed Stores,2013-07-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2013-07-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2013-07-01T00:00:00Z,15.0
+Denmark,DK,Licensed Stores,2013-07-01T00:00:00Z,4.0
+Egypt,EG,Licensed Stores,2013-07-01T00:00:00Z,25.0
+El Salvador,SV,Licensed Stores,2013-07-01T00:00:00Z,4.0
+Finland,FI,Licensed Stores,2013-07-01T00:00:00Z,2.0
+France,FR,Licensed Stores,2013-07-01T00:00:00Z,14.0
+Germany,DE,Licensed Stores,2013-07-01T00:00:00Z,3.0
+Greece,GR,Licensed Stores,2013-07-01T00:00:00Z,34.0
+Guatemala,GT,Licensed Stores,2013-07-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2013-07-01T00:00:00Z,136.0
+Hungary,HU,Licensed Stores,2013-07-01T00:00:00Z,8.0
+Indonesia,ID,Licensed Stores,2013-07-01T00:00:00Z,154.0
+Ireland,IE,Licensed Stores,2013-07-01T00:00:00Z,29.0
+Japan,JP,Licensed Stores,2013-07-01T00:00:00Z,988.0
+Jordan,JO,Licensed Stores,2013-07-01T00:00:00Z,11.0
+Kazakhstan,KZ,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2013-07-01T00:00:00Z,69.0
+Lebanon,LB,Licensed Stores,2013-07-01T00:00:00Z,17.0
+Malaysia,MY,Licensed Stores,2013-07-01T00:00:00Z,142.0
+Mexico,MX,Licensed Stores,2013-07-01T00:00:00Z,384.0
+Monaco,MC,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2013-07-01T00:00:00Z,4.0
+New Zealand,NZ,Licensed Stores,2013-07-01T00:00:00Z,29.0
+Norway,NO,Licensed Stores,2013-07-01T00:00:00Z,2.0
+Oman,OM,Licensed Stores,2013-07-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2013-07-01T00:00:00Z,58.0
+Philippines,PH,Licensed Stores,2013-07-01T00:00:00Z,212.0
+Poland,PL,Licensed Stores,2013-07-01T00:00:00Z,33.0
+Portugal,PT,Licensed Stores,2013-07-01T00:00:00Z,7.0
+Puerto Rico,US_RQ,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2013-07-01T00:00:00Z,13.0
+Romania,RO,Licensed Stores,2013-07-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2013-07-01T00:00:00Z,63.0
+Saudi Arabia,SA,Licensed Stores,2013-07-01T00:00:00Z,68.0
+Singapore,SG,Licensed Stores,2013-07-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2013-07-01T00:00:00Z,526.0
+Spain,ES,Licensed Stores,2013-07-01T00:00:00Z,82.0
+Sweden,SE,Licensed Stores,2013-07-01T00:00:00Z,5.0
+Switzerland,CH,Licensed Stores,2013-07-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2013-07-01T00:00:00Z,290.0
+Turkey,TR,Licensed Stores,2013-07-01T00:00:00Z,190.0
+UAE - Dubai,AE,Licensed Stores,2013-07-01T00:00:00Z,107.0
+United Kingdom,GB,Licensed Stores,2013-07-01T00:00:00Z,223.0
+United States,US,Licensed Stores,2013-07-01T00:00:00Z,4311.0
+Vietnam,VN,Licensed Stores,2013-07-01T00:00:00Z,1.0
+Andorra,AD,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2013-07-01T00:00:00Z,8.0
+Jamaica,JM,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2013-07-01T00:00:00Z,28.0
+Slovakia,SK,Licensed Stores,2013-07-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Total,,Licensed Stores,2013-07-01T00:00:00Z,18620.0
+Trinidad and Tobago,TT,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2013-07-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2013-10-01T00:00:00Z,68.0
+Aruba,,Licensed Stores,2013-10-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2013-10-01T00:00:00Z,24.0
+Austria,AT,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2013-10-01T00:00:00Z,15.0
+Belgium,BE,Licensed Stores,2013-10-01T00:00:00Z,10.0
+Brazil,BR,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2013-10-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2013-10-01T00:00:00Z,397.0
+Chile,CL,Licensed Stores,2013-10-01T00:00:00Z,50.0
+China,CN,Licensed Stores,2013-10-01T00:00:00Z,403.0
+Colombia,CO,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2013-10-01T00:00:00Z,3.0
+Curacao,,Licensed Stores,2013-10-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2013-10-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2013-10-01T00:00:00Z,17.0
+Denmark,DK,Licensed Stores,2013-10-01T00:00:00Z,8.0
+Egypt,EG,Licensed Stores,2013-10-01T00:00:00Z,25.0
+El Salvador,SV,Licensed Stores,2013-10-01T00:00:00Z,5.0
+Finland,FI,Licensed Stores,2013-10-01T00:00:00Z,2.0
+France,FR,Licensed Stores,2013-10-01T00:00:00Z,18.0
+Germany,DE,Licensed Stores,2013-10-01T00:00:00Z,4.0
+Greece,GR,Licensed Stores,2013-10-01T00:00:00Z,34.0
+Guatemala,GT,Licensed Stores,2013-10-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2013-10-01T00:00:00Z,136.0
+Hungary,HU,Licensed Stores,2013-10-01T00:00:00Z,9.0
+Indonesia,ID,Licensed Stores,2013-10-01T00:00:00Z,161.0
+Ireland,IE,Licensed Stores,2013-10-01T00:00:00Z,29.0
+Japan,JP,Licensed Stores,2013-10-01T00:00:00Z,1000.0
+Jordan,JO,Licensed Stores,2013-10-01T00:00:00Z,11.0
+Kazakhstan,KZ,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2013-10-01T00:00:00Z,69.0
+Lebanon,LB,Licensed Stores,2013-10-01T00:00:00Z,17.0
+Malaysia,MY,Licensed Stores,2013-10-01T00:00:00Z,150.0
+Mexico,MX,Licensed Stores,2013-10-01T00:00:00Z,403.0
+Monaco,MC,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Morocco,MA,Licensed Stores,2013-10-01T00:00:00Z,4.0
+New Zealand,NZ,Licensed Stores,2013-10-01T00:00:00Z,28.0
+Norway,NO,Licensed Stores,2013-10-01T00:00:00Z,5.0
+Oman,OM,Licensed Stores,2013-10-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2013-10-01T00:00:00Z,65.0
+Philippines,PH,Licensed Stores,2013-10-01T00:00:00Z,216.0
+Poland,PL,Licensed Stores,2013-10-01T00:00:00Z,34.0
+Portugal,PT,Licensed Stores,2013-10-01T00:00:00Z,8.0
+Puerto Rico,US_RQ,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2013-10-01T00:00:00Z,11.0
+Romania,RO,Licensed Stores,2013-10-01T00:00:00Z,8.0
+Russia,RU,Licensed Stores,2013-10-01T00:00:00Z,65.0
+Saudi Arabia,SA,Licensed Stores,2013-10-01T00:00:00Z,62.0
+Singapore,SG,Licensed Stores,2013-10-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2013-10-01T00:00:00Z,559.0
+Spain,ES,Licensed Stores,2013-10-01T00:00:00Z,82.0
+Sweden,SE,Licensed Stores,2013-10-01T00:00:00Z,5.0
+Switzerland,CH,Licensed Stores,2013-10-01T00:00:00Z,1.0
+Taiwan,TW,Licensed Stores,2013-10-01T00:00:00Z,297.0
+Turkey,TR,Licensed Stores,2013-10-01T00:00:00Z,193.0
+UAE - Dubai,AE,Licensed Stores,2013-10-01T00:00:00Z,107.0
+United Kingdom,GB,Licensed Stores,2013-10-01T00:00:00Z,242.0
+United States,US,Licensed Stores,2013-10-01T00:00:00Z,4408.0
+Vietnam,VN,Licensed Stores,2013-10-01T00:00:00Z,2.0
+Andorra,AD,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2013-10-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2013-10-01T00:00:00Z,29.0
+Slovakia,SK,Licensed Stores,2013-10-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Total,,Licensed Stores,2013-10-01T00:00:00Z,19248.0
+Trinidad and Tobago,TT,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2013-10-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2014-01-01T00:00:00Z,71.0
+Aruba,,Licensed Stores,2014-01-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2014-01-01T00:00:00Z,24.0
+Austria,AT,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2014-01-01T00:00:00Z,15.0
+Belgium,BE,Licensed Stores,2014-01-01T00:00:00Z,11.0
+Brazil,BR,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Bulgaria,BG,Licensed Stores,2014-01-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2014-01-01T00:00:00Z,446.0
+Chile,CL,Licensed Stores,2014-01-01T00:00:00Z,53.0
+China,CN,Licensed Stores,2014-01-01T00:00:00Z,454.0
+Colombia,CO,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2014-01-01T00:00:00Z,3.0
+Curacao,,Licensed Stores,2014-01-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2014-01-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2014-01-01T00:00:00Z,17.0
+Denmark,DK,Licensed Stores,2014-01-01T00:00:00Z,9.0
+Egypt,EG,Licensed Stores,2014-01-01T00:00:00Z,24.0
+El Salvador,SV,Licensed Stores,2014-01-01T00:00:00Z,5.0
+Finland,FI,Licensed Stores,2014-01-01T00:00:00Z,3.0
+France,FR,Licensed Stores,2014-01-01T00:00:00Z,20.0
+Germany,DE,Licensed Stores,2014-01-01T00:00:00Z,4.0
+Greece,GR,Licensed Stores,2014-01-01T00:00:00Z,32.0
+Guatemala,GT,Licensed Stores,2014-01-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2014-01-01T00:00:00Z,143.0
+Hungary,HU,Licensed Stores,2014-01-01T00:00:00Z,9.0
+Indonesia,ID,Licensed Stores,2014-01-01T00:00:00Z,168.0
+Ireland,IE,Licensed Stores,2014-01-01T00:00:00Z,35.0
+Japan,JP,Licensed Stores,2014-01-01T00:00:00Z,1019.0
+Jordan,JO,Licensed Stores,2014-01-01T00:00:00Z,10.0
+Kazakhstan,KZ,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2014-01-01T00:00:00Z,71.0
+Lebanon,LB,Licensed Stores,2014-01-01T00:00:00Z,18.0
+Malaysia,MY,Licensed Stores,2014-01-01T00:00:00Z,159.0
+Mexico,MX,Licensed Stores,2014-01-01T00:00:00Z,410.0
+Monaco,MC,Licensed Stores,2014-01-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2014-01-01T00:00:00Z,4.0
+New Zealand,NZ,Licensed Stores,2014-01-01T00:00:00Z,27.0
+Norway,NO,Licensed Stores,2014-01-01T00:00:00Z,8.0
+Oman,OM,Licensed Stores,2014-01-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2014-01-01T00:00:00Z,68.0
+Philippines,PH,Licensed Stores,2014-01-01T00:00:00Z,221.0
+Poland,PL,Licensed Stores,2014-01-01T00:00:00Z,35.0
+Portugal,PT,Licensed Stores,2014-01-01T00:00:00Z,8.0
+Puerto Rico,US_RQ,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2014-01-01T00:00:00Z,12.0
+Romania,RO,Licensed Stores,2014-01-01T00:00:00Z,9.0
+Russia,RU,Licensed Stores,2014-01-01T00:00:00Z,70.0
+Saudi Arabia,SA,Licensed Stores,2014-01-01T00:00:00Z,63.0
+Singapore,SG,Licensed Stores,2014-01-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2014-01-01T00:00:00Z,596.0
+Spain,ES,Licensed Stores,2014-01-01T00:00:00Z,82.0
+Sweden,SE,Licensed Stores,2014-01-01T00:00:00Z,6.0
+Switzerland,CH,Licensed Stores,2014-01-01T00:00:00Z,3.0
+Taiwan,TW,Licensed Stores,2014-01-01T00:00:00Z,303.0
+Turkey,TR,Licensed Stores,2014-01-01T00:00:00Z,202.0
+UAE - Dubai,AE,Licensed Stores,2014-01-01T00:00:00Z,109.0
+United Kingdom,GB,Licensed Stores,2014-01-01T00:00:00Z,263.0
+United States,US,Licensed Stores,2014-01-01T00:00:00Z,4457.0
+Vietnam,VN,Licensed Stores,2014-01-01T00:00:00Z,3.0
+Andorra,AD,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2014-01-01T00:00:00Z,10.0
+Jamaica,JM,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2014-01-01T00:00:00Z,32.0
+Slovakia,SK,Licensed Stores,2014-01-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Total,,Licensed Stores,2014-01-01T00:00:00Z,19886.0
+Trinidad and Tobago,TT,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2014-01-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2014-04-01T00:00:00Z,71.0
+Aruba,,Licensed Stores,2014-04-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2014-04-01T00:00:00Z,24.0
+Austria,AT,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2014-04-01T00:00:00Z,15.0
+Belgium,BE,Licensed Stores,2014-04-01T00:00:00Z,12.0
+Brazil,BR,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2014-04-01T00:00:00Z,1.0
+Bulgaria,BG,Licensed Stores,2014-04-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2014-04-01T00:00:00Z,451.0
+Chile,CL,Licensed Stores,2014-04-01T00:00:00Z,57.0
+China,CN,Licensed Stores,2014-04-01T00:00:00Z,479.0
+Colombia,CO,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2014-04-01T00:00:00Z,4.0
+Curacao,,Licensed Stores,2014-04-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2014-04-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2014-04-01T00:00:00Z,17.0
+Denmark,DK,Licensed Stores,2014-04-01T00:00:00Z,10.0
+Egypt,EG,Licensed Stores,2014-04-01T00:00:00Z,24.0
+El Salvador,SV,Licensed Stores,2014-04-01T00:00:00Z,5.0
+Finland,FI,Licensed Stores,2014-04-01T00:00:00Z,3.0
+France,FR,Licensed Stores,2014-04-01T00:00:00Z,20.0
+Germany,DE,Licensed Stores,2014-04-01T00:00:00Z,5.0
+Greece,GR,Licensed Stores,2014-04-01T00:00:00Z,32.0
+Guatemala,GT,Licensed Stores,2014-04-01T00:00:00Z,2.0
+Hong Kong/Macau,,Licensed Stores,2014-04-01T00:00:00Z,145.0
+Hungary,HU,Licensed Stores,2014-04-01T00:00:00Z,9.0
+Indonesia,ID,Licensed Stores,2014-04-01T00:00:00Z,170.0
+Ireland,IE,Licensed Stores,2014-04-01T00:00:00Z,38.0
+Japan,JP,Licensed Stores,2014-04-01T00:00:00Z,1038.0
+Jordan,JO,Licensed Stores,2014-04-01T00:00:00Z,10.0
+Kazakhstan,KZ,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2014-04-01T00:00:00Z,71.0
+Lebanon,LB,Licensed Stores,2014-04-01T00:00:00Z,18.0
+Malaysia,MY,Licensed Stores,2014-04-01T00:00:00Z,167.0
+Mexico,MX,Licensed Stores,2014-04-01T00:00:00Z,419.0
+Monaco,MC,Licensed Stores,2014-04-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2014-04-01T00:00:00Z,4.0
+New Zealand,NZ,Licensed Stores,2014-04-01T00:00:00Z,27.0
+Norway,NO,Licensed Stores,2014-04-01T00:00:00Z,8.0
+Oman,OM,Licensed Stores,2014-04-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2014-04-01T00:00:00Z,69.0
+Philippines,PH,Licensed Stores,2014-04-01T00:00:00Z,226.0
+Poland,PL,Licensed Stores,2014-04-01T00:00:00Z,36.0
+Portugal,PT,Licensed Stores,2014-04-01T00:00:00Z,8.0
+Puerto Rico,US_RQ,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2014-04-01T00:00:00Z,12.0
+Romania,RO,Licensed Stores,2014-04-01T00:00:00Z,9.0
+Russia,RU,Licensed Stores,2014-04-01T00:00:00Z,73.0
+Saudi Arabia,SA,Licensed Stores,2014-04-01T00:00:00Z,65.0
+Singapore,SG,Licensed Stores,2014-04-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2014-04-01T00:00:00Z,640.0
+Spain,ES,Licensed Stores,2014-04-01T00:00:00Z,82.0
+Sweden,SE,Licensed Stores,2014-04-01T00:00:00Z,6.0
+Switzerland,CH,Licensed Stores,2014-04-01T00:00:00Z,3.0
+Taiwan,TW,Licensed Stores,2014-04-01T00:00:00Z,308.0
+Turkey,TR,Licensed Stores,2014-04-01T00:00:00Z,210.0
+UAE - Dubai,AE,Licensed Stores,2014-04-01T00:00:00Z,112.0
+United Kingdom,GB,Licensed Stores,2014-04-01T00:00:00Z,268.0
+United States,US,Licensed Stores,2014-04-01T00:00:00Z,4506.0
+Vietnam,VN,Licensed Stores,2014-04-01T00:00:00Z,4.0
+Andorra,AD,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2014-04-01T00:00:00Z,10.0
+Jamaica,JM,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2014-04-01T00:00:00Z,35.0
+Slovakia,SK,Licensed Stores,2014-04-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Total,,Licensed Stores,2014-04-01T00:00:00Z,20322.0
+Trinidad and Tobago,TT,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2014-04-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2014-07-01T00:00:00Z,72.0
+Aruba,,Licensed Stores,2014-07-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2014-07-01T00:00:00Z,24.0
+Austria,AT,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2014-07-01T00:00:00Z,17.0
+Belgium,BE,Licensed Stores,2014-07-01T00:00:00Z,14.0
+Brazil,BR,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2014-07-01T00:00:00Z,1.0
+Bulgaria,BG,Licensed Stores,2014-07-01T00:00:00Z,4.0
+Cambodia,KH,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2014-07-01T00:00:00Z,454.0
+Chile,CL,Licensed Stores,2014-07-01T00:00:00Z,57.0
+China,CN,Licensed Stores,2014-07-01T00:00:00Z,509.0
+Colombia,CO,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Costa Rica,CR,Licensed Stores,2014-07-01T00:00:00Z,4.0
+Curacao,,Licensed Stores,2014-07-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2014-07-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2014-07-01T00:00:00Z,17.0
+Denmark,DK,Licensed Stores,2014-07-01T00:00:00Z,10.0
+Egypt,EG,Licensed Stores,2014-07-01T00:00:00Z,25.0
+El Salvador,SV,Licensed Stores,2014-07-01T00:00:00Z,5.0
+Finland,FI,Licensed Stores,2014-07-01T00:00:00Z,3.0
+France,FR,Licensed Stores,2014-07-01T00:00:00Z,22.0
+Germany,DE,Licensed Stores,2014-07-01T00:00:00Z,6.0
+Greece,GR,Licensed Stores,2014-07-01T00:00:00Z,32.0
+Guatemala,GT,Licensed Stores,2014-07-01T00:00:00Z,4.0
+Hong Kong/Macau,,Licensed Stores,2014-07-01T00:00:00Z,147.0
+Hungary,HU,Licensed Stores,2014-07-01T00:00:00Z,9.0
+Indonesia,ID,Licensed Stores,2014-07-01T00:00:00Z,181.0
+Ireland,IE,Licensed Stores,2014-07-01T00:00:00Z,40.0
+Japan,JP,Licensed Stores,2014-07-01T00:00:00Z,1051.0
+Jordan,JO,Licensed Stores,2014-07-01T00:00:00Z,10.0
+Kazakhstan,KZ,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2014-07-01T00:00:00Z,73.0
+Lebanon,LB,Licensed Stores,2014-07-01T00:00:00Z,18.0
+Malaysia,MY,Licensed Stores,2014-07-01T00:00:00Z,170.0
+Mexico,MX,Licensed Stores,2014-07-01T00:00:00Z,425.0
+Monaco,MC,Licensed Stores,2014-07-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2014-07-01T00:00:00Z,5.0
+New Zealand,NZ,Licensed Stores,2014-07-01T00:00:00Z,27.0
+Norway,NO,Licensed Stores,2014-07-01T00:00:00Z,8.0
+Oman,OM,Licensed Stores,2014-07-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2014-07-01T00:00:00Z,72.0
+Philippines,PH,Licensed Stores,2014-07-01T00:00:00Z,231.0
+Poland,PL,Licensed Stores,2014-07-01T00:00:00Z,38.0
+Portugal,PT,Licensed Stores,2014-07-01T00:00:00Z,8.0
+Puerto Rico,US_RQ,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2014-07-01T00:00:00Z,12.0
+Romania,RO,Licensed Stores,2014-07-01T00:00:00Z,9.0
+Russia,RU,Licensed Stores,2014-07-01T00:00:00Z,77.0
+Saudi Arabia,SA,Licensed Stores,2014-07-01T00:00:00Z,67.0
+Singapore,SG,Licensed Stores,2014-07-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2014-07-01T00:00:00Z,676.0
+Spain,ES,Licensed Stores,2014-07-01T00:00:00Z,84.0
+Sweden,SE,Licensed Stores,2014-07-01T00:00:00Z,6.0
+Switzerland,CH,Licensed Stores,2014-07-01T00:00:00Z,4.0
+Taiwan,TW,Licensed Stores,2014-07-01T00:00:00Z,313.0
+Turkey,TR,Licensed Stores,2014-07-01T00:00:00Z,219.0
+UAE - Dubai,AE,Licensed Stores,2014-07-01T00:00:00Z,112.0
+United Kingdom,GB,Licensed Stores,2014-07-01T00:00:00Z,274.0
+United States,US,Licensed Stores,2014-07-01T00:00:00Z,4571.0
+Vietnam,VN,Licensed Stores,2014-07-01T00:00:00Z,7.0
+Andorra,AD,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2014-07-01T00:00:00Z,10.0
+Jamaica,JM,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2014-07-01T00:00:00Z,36.0
+Slovakia,SK,Licensed Stores,2014-07-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Total,,Licensed Stores,2014-07-01T00:00:00Z,20768.0
+Trinidad and Tobago,TT,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2014-07-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2014-10-01T00:00:00Z,76.0
+Aruba,,Licensed Stores,2014-10-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2014-10-01T00:00:00Z,24.0
+Austria,AT,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2014-10-01T00:00:00Z,17.0
+Belgium,BE,Licensed Stores,2014-10-01T00:00:00Z,14.0
+Brazil,BR,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2014-10-01T00:00:00Z,2.0
+Bulgaria,BG,Licensed Stores,2014-10-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2014-10-01T00:00:00Z,462.0
+Chile,CL,Licensed Stores,2014-10-01T00:00:00Z,62.0
+China,CN,Licensed Stores,2014-10-01T00:00:00Z,544.0
+Colombia,CO,Licensed Stores,2014-10-01T00:00:00Z,2.0
+Costa Rica,CR,Licensed Stores,2014-10-01T00:00:00Z,4.0
+Curacao,,Licensed Stores,2014-10-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2014-10-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2014-10-01T00:00:00Z,18.0
+Denmark,DK,Licensed Stores,2014-10-01T00:00:00Z,15.0
+Egypt,EG,Licensed Stores,2014-10-01T00:00:00Z,25.0
+El Salvador,SV,Licensed Stores,2014-10-01T00:00:00Z,5.0
+Finland,FI,Licensed Stores,2014-10-01T00:00:00Z,3.0
+France,FR,Licensed Stores,2014-10-01T00:00:00Z,23.0
+Germany,DE,Licensed Stores,2014-10-01T00:00:00Z,7.0
+Greece,GR,Licensed Stores,2014-10-01T00:00:00Z,31.0
+Guatemala,GT,Licensed Stores,2014-10-01T00:00:00Z,4.0
+Hong Kong/Macau,,Licensed Stores,2014-10-01T00:00:00Z,147.0
+Hungary,HU,Licensed Stores,2014-10-01T00:00:00Z,9.0
+Indonesia,ID,Licensed Stores,2014-10-01T00:00:00Z,186.0
+Ireland,IE,Licensed Stores,2014-10-01T00:00:00Z,40.0
+Japan,JP,Licensed Stores,2014-10-01T00:00:00Z,1060.0
+Jordan,JO,Licensed Stores,2014-10-01T00:00:00Z,10.0
+Kazakhstan,KZ,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2014-10-01T00:00:00Z,72.0
+Lebanon,LB,Licensed Stores,2014-10-01T00:00:00Z,20.0
+Malaysia,MY,Licensed Stores,2014-10-01T00:00:00Z,175.0
+Mexico,MX,Licensed Stores,2014-10-01T00:00:00Z,434.0
+Monaco,MC,Licensed Stores,2014-10-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2014-10-01T00:00:00Z,6.0
+New Zealand,NZ,Licensed Stores,2014-10-01T00:00:00Z,26.0
+Norway,NO,Licensed Stores,2014-10-01T00:00:00Z,11.0
+Oman,OM,Licensed Stores,2014-10-01T00:00:00Z,6.0
+Panama,PA,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2014-10-01T00:00:00Z,74.0
+Philippines,PH,Licensed Stores,2014-10-01T00:00:00Z,240.0
+Poland,PL,Licensed Stores,2014-10-01T00:00:00Z,38.0
+Portugal,PT,Licensed Stores,2014-10-01T00:00:00Z,8.0
+Puerto Rico,US_RQ,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2014-10-01T00:00:00Z,13.0
+Romania,RO,Licensed Stores,2014-10-01T00:00:00Z,10.0
+Russia,RU,Licensed Stores,2014-10-01T00:00:00Z,87.0
+Saudi Arabia,SA,Licensed Stores,2014-10-01T00:00:00Z,67.0
+Singapore,SG,Licensed Stores,2014-10-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2014-10-01T00:00:00Z,700.0
+Spain,ES,Licensed Stores,2014-10-01T00:00:00Z,86.0
+Sweden,SE,Licensed Stores,2014-10-01T00:00:00Z,6.0
+Switzerland,CH,Licensed Stores,2014-10-01T00:00:00Z,5.0
+Taiwan,TW,Licensed Stores,2014-10-01T00:00:00Z,323.0
+Turkey,TR,Licensed Stores,2014-10-01T00:00:00Z,220.0
+UAE - Dubai,AE,Licensed Stores,2014-10-01T00:00:00Z,115.0
+United Kingdom,GB,Licensed Stores,2014-10-01T00:00:00Z,285.0
+United States,US,Licensed Stores,2014-10-01T00:00:00Z,4659.0
+Vietnam,VN,Licensed Stores,2014-10-01T00:00:00Z,11.0
+Andorra,AD,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2014-10-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2014-10-01T00:00:00Z,41.0
+Slovakia,SK,Licensed Stores,2014-10-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Total,,Licensed Stores,2014-10-01T00:00:00Z,21306.0
+Trinidad and Tobago,TT,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2014-10-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2015-01-01T00:00:00Z,79.0
+Aruba,,Licensed Stores,2015-01-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2015-01-01T00:00:00Z,25.0
+Austria,AT,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2015-01-01T00:00:00Z,17.0
+Belgium,BE,Licensed Stores,2015-01-01T00:00:00Z,14.0
+Brazil,BR,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2015-01-01T00:00:00Z,2.0
+Bulgaria,BG,Licensed Stores,2015-01-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2015-01-01T00:00:00Z,464.0
+Chile,CL,Licensed Stores,2015-01-01T00:00:00Z,63.0
+China,CN,Licensed Stores,2015-01-01T00:00:00Z,635.0
+Colombia,CO,Licensed Stores,2015-01-01T00:00:00Z,5.0
+Costa Rica,CR,Licensed Stores,2015-01-01T00:00:00Z,4.0
+Curacao,,Licensed Stores,2015-01-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2015-01-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2015-01-01T00:00:00Z,19.0
+Denmark,DK,Licensed Stores,2015-01-01T00:00:00Z,16.0
+Egypt,EG,Licensed Stores,2015-01-01T00:00:00Z,27.0
+El Salvador,SV,Licensed Stores,2015-01-01T00:00:00Z,7.0
+Finland,FI,Licensed Stores,2015-01-01T00:00:00Z,3.0
+France,FR,Licensed Stores,2015-01-01T00:00:00Z,24.0
+Germany,DE,Licensed Stores,2015-01-01T00:00:00Z,8.0
+Greece,GR,Licensed Stores,2015-01-01T00:00:00Z,31.0
+Guatemala,GT,Licensed Stores,2015-01-01T00:00:00Z,4.0
+Hong Kong/Macau,,Licensed Stores,2015-01-01T00:00:00Z,151.0
+Hungary,HU,Licensed Stores,2015-01-01T00:00:00Z,10.0
+Indonesia,ID,Licensed Stores,2015-01-01T00:00:00Z,198.0
+Ireland,IE,Licensed Stores,2015-01-01T00:00:00Z,43.0
+Japan,JP,Licensed Stores,2015-01-01T00:00:00Z,51.0
+Jordan,JO,Licensed Stores,2015-01-01T00:00:00Z,10.0
+Kazakhstan,KZ,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2015-01-01T00:00:00Z,73.0
+Lebanon,LB,Licensed Stores,2015-01-01T00:00:00Z,22.0
+Malaysia,MY,Licensed Stores,2015-01-01T00:00:00Z,184.0
+Mexico,MX,Licensed Stores,2015-01-01T00:00:00Z,454.0
+Monaco,MC,Licensed Stores,2015-01-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2015-01-01T00:00:00Z,7.0
+New Zealand,NZ,Licensed Stores,2015-01-01T00:00:00Z,26.0
+Norway,NO,Licensed Stores,2015-01-01T00:00:00Z,14.0
+Oman,OM,Licensed Stores,2015-01-01T00:00:00Z,8.0
+Panama,PA,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2015-01-01T00:00:00Z,74.0
+Philippines,PH,Licensed Stores,2015-01-01T00:00:00Z,244.0
+Poland,PL,Licensed Stores,2015-01-01T00:00:00Z,38.0
+Portugal,PT,Licensed Stores,2015-01-01T00:00:00Z,9.0
+Puerto Rico,US_RQ,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2015-01-01T00:00:00Z,13.0
+Romania,RO,Licensed Stores,2015-01-01T00:00:00Z,13.0
+Russia,RU,Licensed Stores,2015-01-01T00:00:00Z,97.0
+Saudi Arabia,SA,Licensed Stores,2015-01-01T00:00:00Z,64.0
+Singapore,SG,Licensed Stores,2015-01-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2015-01-01T00:00:00Z,740.0
+Spain,ES,Licensed Stores,2015-01-01T00:00:00Z,87.0
+Sweden,SE,Licensed Stores,2015-01-01T00:00:00Z,6.0
+Switzerland,CH,Licensed Stores,2015-01-01T00:00:00Z,5.0
+Taiwan,TW,Licensed Stores,2015-01-01T00:00:00Z,326.0
+Turkey,TR,Licensed Stores,2015-01-01T00:00:00Z,226.0
+UAE - Dubai,AE,Licensed Stores,2015-01-01T00:00:00Z,119.0
+United Kingdom,GB,Licensed Stores,2015-01-01T00:00:00Z,309.0
+United States,US,Licensed Stores,2015-01-01T00:00:00Z,4769.0
+Vietnam,VN,Licensed Stores,2015-01-01T00:00:00Z,12.0
+Andorra,AD,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2015-01-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2015-01-01T00:00:00Z,41.0
+Slovakia,SK,Licensed Stores,2015-01-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Total,,Licensed Stores,2015-01-01T00:00:00Z,20050.0
+Trinidad and Tobago,TT,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2015-01-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2015-04-01T00:00:00Z,83.0
+Aruba,,Licensed Stores,2015-04-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2015-04-01T00:00:00Z,25.0
+Austria,AT,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Azerbaijan,AZ,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2015-04-01T00:00:00Z,18.0
+Belgium,BE,Licensed Stores,2015-04-01T00:00:00Z,14.0
+Brazil,BR,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2015-04-01T00:00:00Z,3.0
+Bulgaria,BG,Licensed Stores,2015-04-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2015-04-01T00:00:00Z,337.0
+Chile,CL,Licensed Stores,2015-04-01T00:00:00Z,68.0
+China,CN,Licensed Stores,2015-04-01T00:00:00Z,673.0
+Colombia,CO,Licensed Stores,2015-04-01T00:00:00Z,7.0
+Costa Rica,CR,Licensed Stores,2015-04-01T00:00:00Z,5.0
+Curacao,,Licensed Stores,2015-04-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2015-04-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2015-04-01T00:00:00Z,19.0
+Denmark,DK,Licensed Stores,2015-04-01T00:00:00Z,16.0
+Egypt,EG,Licensed Stores,2015-04-01T00:00:00Z,27.0
+El Salvador,SV,Licensed Stores,2015-04-01T00:00:00Z,7.0
+Finland,FI,Licensed Stores,2015-04-01T00:00:00Z,3.0
+France,FR,Licensed Stores,2015-04-01T00:00:00Z,24.0
+Germany,DE,Licensed Stores,2015-04-01T00:00:00Z,9.0
+Greece,GR,Licensed Stores,2015-04-01T00:00:00Z,31.0
+Guatemala,GT,Licensed Stores,2015-04-01T00:00:00Z,4.0
+Hong Kong/Macau,,Licensed Stores,2015-04-01T00:00:00Z,154.0
+Hungary,HU,Licensed Stores,2015-04-01T00:00:00Z,10.0
+Indonesia,ID,Licensed Stores,2015-04-01T00:00:00Z,200.0
+Ireland,IE,Licensed Stores,2015-04-01T00:00:00Z,45.0
+Japan,JP,Licensed Stores,2015-04-01T00:00:00Z,55.0
+Jordan,JO,Licensed Stores,2015-04-01T00:00:00Z,10.0
+Kazakhstan,KZ,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2015-04-01T00:00:00Z,76.0
+Lebanon,LB,Licensed Stores,2015-04-01T00:00:00Z,22.0
+Malaysia,MY,Licensed Stores,2015-04-01T00:00:00Z,191.0
+Mexico,MX,Licensed Stores,2015-04-01T00:00:00Z,461.0
+Monaco,MC,Licensed Stores,2015-04-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2015-04-01T00:00:00Z,7.0
+New Zealand,NZ,Licensed Stores,2015-04-01T00:00:00Z,26.0
+Norway,NO,Licensed Stores,2015-04-01T00:00:00Z,14.0
+Oman,OM,Licensed Stores,2015-04-01T00:00:00Z,8.0
+Panama,PA,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2015-04-01T00:00:00Z,74.0
+Philippines,PH,Licensed Stores,2015-04-01T00:00:00Z,249.0
+Poland,PL,Licensed Stores,2015-04-01T00:00:00Z,38.0
+Portugal,PT,Licensed Stores,2015-04-01T00:00:00Z,9.0
+Puerto Rico,US_RQ,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2015-04-01T00:00:00Z,13.0
+Romania,RO,Licensed Stores,2015-04-01T00:00:00Z,18.0
+Russia,RU,Licensed Stores,2015-04-01T00:00:00Z,100.0
+Saudi Arabia,SA,Licensed Stores,2015-04-01T00:00:00Z,64.0
+Singapore,SG,Licensed Stores,2015-04-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2015-04-01T00:00:00Z,767.0
+Spain,ES,Licensed Stores,2015-04-01T00:00:00Z,87.0
+Sweden,SE,Licensed Stores,2015-04-01T00:00:00Z,9.0
+Switzerland,CH,Licensed Stores,2015-04-01T00:00:00Z,5.0
+Taiwan,TW,Licensed Stores,2015-04-01T00:00:00Z,342.0
+Turkey,TR,Licensed Stores,2015-04-01T00:00:00Z,236.0
+UAE - Dubai,AE,Licensed Stores,2015-04-01T00:00:00Z,120.0
+United Kingdom,GB,Licensed Stores,2015-04-01T00:00:00Z,330.0
+United States,US,Licensed Stores,2015-04-01T00:00:00Z,4823.0
+Vietnam,VN,Licensed Stores,2015-04-01T00:00:00Z,12.0
+Andorra,AD,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2015-04-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2015-04-01T00:00:00Z,43.0
+Slovakia,SK,Licensed Stores,2015-04-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Total,,Licensed Stores,2015-04-01T00:00:00Z,20266.0
+Trinidad and Tobago,TT,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2015-04-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2015-07-01T00:00:00Z,86.0
+Aruba,,Licensed Stores,2015-07-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2015-07-01T00:00:00Z,25.0
+Austria,AT,Licensed Stores,2015-07-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Bahrain,BH,Licensed Stores,2015-07-01T00:00:00Z,18.0
+Belgium,BE,Licensed Stores,2015-07-01T00:00:00Z,14.0
+Brazil,BR,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2015-07-01T00:00:00Z,3.0
+Bulgaria,BG,Licensed Stores,2015-07-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2015-07-01T00:00:00Z,342.0
+Chile,CL,Licensed Stores,2015-07-01T00:00:00Z,76.0
+China,CN,Licensed Stores,2015-07-01T00:00:00Z,721.0
+Colombia,CO,Licensed Stores,2015-07-01T00:00:00Z,9.0
+Costa Rica,CR,Licensed Stores,2015-07-01T00:00:00Z,5.0
+Curacao,,Licensed Stores,2015-07-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2015-07-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2015-07-01T00:00:00Z,22.0
+Denmark,DK,Licensed Stores,2015-07-01T00:00:00Z,16.0
+Egypt,EG,Licensed Stores,2015-07-01T00:00:00Z,28.0
+El Salvador,SV,Licensed Stores,2015-07-01T00:00:00Z,7.0
+Finland,FI,Licensed Stores,2015-07-01T00:00:00Z,3.0
+France,FR,Licensed Stores,2015-07-01T00:00:00Z,24.0
+Germany,DE,Licensed Stores,2015-07-01T00:00:00Z,10.0
+Greece,GR,Licensed Stores,2015-07-01T00:00:00Z,31.0
+Guatemala,GT,Licensed Stores,2015-07-01T00:00:00Z,4.0
+Hong Kong/Macau,,Licensed Stores,2015-07-01T00:00:00Z,157.0
+Hungary,HU,Licensed Stores,2015-07-01T00:00:00Z,10.0
+Indonesia,ID,Licensed Stores,2015-07-01T00:00:00Z,208.0
+Ireland,IE,Licensed Stores,2015-07-01T00:00:00Z,49.0
+Japan,JP,Licensed Stores,2015-07-01T00:00:00Z,58.0
+Jordan,JO,Licensed Stores,2015-07-01T00:00:00Z,10.0
+Kazakhstan,KZ,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2015-07-01T00:00:00Z,77.0
+Lebanon,LB,Licensed Stores,2015-07-01T00:00:00Z,24.0
+Malaysia,MY,Licensed Stores,2015-07-01T00:00:00Z,195.0
+Mexico,MX,Licensed Stores,2015-07-01T00:00:00Z,478.0
+Monaco,MC,Licensed Stores,2015-07-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2015-07-01T00:00:00Z,7.0
+New Zealand,NZ,Licensed Stores,2015-07-01T00:00:00Z,26.0
+Norway,NO,Licensed Stores,2015-07-01T00:00:00Z,15.0
+Oman,OM,Licensed Stores,2015-07-01T00:00:00Z,9.0
+Panama,PA,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Peru,PE,Licensed Stores,2015-07-01T00:00:00Z,77.0
+Philippines,PH,Licensed Stores,2015-07-01T00:00:00Z,253.0
+Poland,PL,Licensed Stores,2015-07-01T00:00:00Z,38.0
+Portugal,PT,Licensed Stores,2015-07-01T00:00:00Z,10.0
+Puerto Rico,US_RQ,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Qatar,QA,Licensed Stores,2015-07-01T00:00:00Z,16.0
+Romania,RO,Licensed Stores,2015-07-01T00:00:00Z,18.0
+Russia,RU,Licensed Stores,2015-07-01T00:00:00Z,103.0
+Saudi Arabia,SA,Licensed Stores,2015-07-01T00:00:00Z,69.0
+Singapore,SG,Licensed Stores,2015-07-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2015-07-01T00:00:00Z,800.0
+Spain,ES,Licensed Stores,2015-07-01T00:00:00Z,89.0
+Sweden,SE,Licensed Stores,2015-07-01T00:00:00Z,10.0
+Switzerland,CH,Licensed Stores,2015-07-01T00:00:00Z,5.0
+Taiwan,TW,Licensed Stores,2015-07-01T00:00:00Z,353.0
+Turkey,TR,Licensed Stores,2015-07-01T00:00:00Z,244.0
+UAE - Dubai,AE,Licensed Stores,2015-07-01T00:00:00Z,126.0
+United Kingdom,GB,Licensed Stores,2015-07-01T00:00:00Z,351.0
+United States,US,Licensed Stores,2015-07-01T00:00:00Z,4888.0
+Vietnam,VN,Licensed Stores,2015-07-01T00:00:00Z,15.0
+Andorra,AD,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2015-07-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2015-07-01T00:00:00Z,45.0
+Slovakia,SK,Licensed Stores,2015-07-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Total,,Licensed Stores,2015-07-01T00:00:00Z,20848.0
+Trinidad and Tobago,TT,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2015-07-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2015-10-01T00:00:00Z,90.0
+Aruba,,Licensed Stores,2015-10-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2015-10-01T00:00:00Z,25.0
+Austria,AT,Licensed Stores,2015-10-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2015-10-01T00:00:00Z,1.0
+Bahrain,BH,Licensed Stores,2015-10-01T00:00:00Z,18.0
+Belgium,BE,Licensed Stores,2015-10-01T00:00:00Z,15.0
+Brazil,BR,Licensed Stores,2015-10-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2015-10-01T00:00:00Z,3.0
+Bulgaria,BG,Licensed Stores,2015-10-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2015-10-01T00:00:00Z,0.0
+Canada,CA,Licensed Stores,2015-10-01T00:00:00Z,349.0
+Chile,CL,Licensed Stores,2015-10-01T00:00:00Z,79.0
+China,CN,Licensed Stores,2015-10-01T00:00:00Z,785.0
+Colombia,CO,Licensed Stores,2015-10-01T00:00:00Z,10.0
+Costa Rica,CR,Licensed Stores,2015-10-01T00:00:00Z,7.0
+Curacao,,Licensed Stores,2015-10-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2015-10-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2015-10-01T00:00:00Z,23.0
+Denmark,DK,Licensed Stores,2015-10-01T00:00:00Z,19.0
+Egypt,EG,Licensed Stores,2015-10-01T00:00:00Z,30.0
+El Salvador,SV,Licensed Stores,2015-10-01T00:00:00Z,10.0
+Finland,FI,Licensed Stores,2015-10-01T00:00:00Z,4.0
+France,FR,Licensed Stores,2015-10-01T00:00:00Z,27.0
+Germany,DE,Licensed Stores,2015-10-01T00:00:00Z,10.0
+Greece,GR,Licensed Stores,2015-10-01T00:00:00Z,31.0
+Guatemala,GT,Licensed Stores,2015-10-01T00:00:00Z,5.0
+Hong Kong/Macau,,Licensed Stores,2015-10-01T00:00:00Z,157.0
+Hungary,HU,Licensed Stores,2015-10-01T00:00:00Z,11.0
+Indonesia,ID,Licensed Stores,2015-10-01T00:00:00Z,214.0
+Ireland,IE,Licensed Stores,2015-10-01T00:00:00Z,53.0
+Japan,JP,Licensed Stores,2015-10-01T00:00:00Z,58.0
+Jordan,JO,Licensed Stores,2015-10-01T00:00:00Z,12.0
+Kazakhstan,KZ,Licensed Stores,2015-10-01T00:00:00Z,0.0
+Kuwait,KW,Licensed Stores,2015-10-01T00:00:00Z,77.0
+Lebanon,LB,Licensed Stores,2015-10-01T00:00:00Z,27.0
+Malaysia,MY,Licensed Stores,2015-10-01T00:00:00Z,199.0
+Mexico,MX,Licensed Stores,2015-10-01T00:00:00Z,506.0
+Monaco,MC,Licensed Stores,2015-10-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2015-10-01T00:00:00Z,7.0
+New Zealand,NZ,Licensed Stores,2015-10-01T00:00:00Z,26.0
+Norway,NO,Licensed Stores,2015-10-01T00:00:00Z,16.0
+Oman,OM,Licensed Stores,2015-10-01T00:00:00Z,10.0
+Panama,PA,Licensed Stores,2015-10-01T00:00:00Z,1.0
+Peru,PE,Licensed Stores,2015-10-01T00:00:00Z,77.0
+Philippines,PH,Licensed Stores,2015-10-01T00:00:00Z,264.0
+Poland,PL,Licensed Stores,2015-10-01T00:00:00Z,43.0
+Portugal,PT,Licensed Stores,2015-10-01T00:00:00Z,10.0
+Puerto Rico,US_RQ,Licensed Stores,2015-10-01T00:00:00Z,19.0
+Qatar,QA,Licensed Stores,2015-10-01T00:00:00Z,16.0
+Romania,RO,Licensed Stores,2015-10-01T00:00:00Z,19.0
+Russia,RU,Licensed Stores,2015-10-01T00:00:00Z,104.0
+Saudi Arabia,SA,Licensed Stores,2015-10-01T00:00:00Z,71.0
+Singapore,SG,Licensed Stores,2015-10-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2015-10-01T00:00:00Z,831.0
+Spain,ES,Licensed Stores,2015-10-01T00:00:00Z,89.0
+Sweden,SE,Licensed Stores,2015-10-01T00:00:00Z,11.0
+Switzerland,CH,Licensed Stores,2015-10-01T00:00:00Z,5.0
+Taiwan,TW,Licensed Stores,2015-10-01T00:00:00Z,356.0
+Turkey,TR,Licensed Stores,2015-10-01T00:00:00Z,260.0
+UAE - Dubai,AE,Licensed Stores,2015-10-01T00:00:00Z,131.0
+United Kingdom,GB,Licensed Stores,2015-10-01T00:00:00Z,414.0
+United States,US,Licensed Stores,2015-10-01T00:00:00Z,4962.0
+Vietnam,VN,Licensed Stores,2015-10-01T00:00:00Z,15.0
+Andorra,AD,Licensed Stores,2015-10-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2015-10-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2015-10-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2015-10-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2015-10-01T00:00:00Z,45.0
+Slovakia,SK,Licensed Stores,2015-10-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2015-10-01T00:00:00Z,0.0
+Total,,Licensed Stores,2015-10-01T00:00:00Z,21616.0
+Trinidad and Tobago,TT,Licensed Stores,2015-10-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2015-10-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2016-01-01T00:00:00Z,92.0
+Aruba,,Licensed Stores,2016-01-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2016-01-01T00:00:00Z,25.0
+Austria,AT,Licensed Stores,2016-01-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2016-01-01T00:00:00Z,1.0
+Bahrain,BH,Licensed Stores,2016-01-01T00:00:00Z,18.0
+Belgium,BE,Licensed Stores,2016-01-01T00:00:00Z,15.0
+Brazil,BR,Licensed Stores,2016-01-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2016-01-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2016-01-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2016-01-01T00:00:00Z,1.0
+Canada,CA,Licensed Stores,2016-01-01T00:00:00Z,353.0
+Chile,CL,Licensed Stores,2016-01-01T00:00:00Z,81.0
+China,CN,Licensed Stores,2016-01-01T00:00:00Z,892.0
+Colombia,CO,Licensed Stores,2016-01-01T00:00:00Z,10.0
+Costa Rica,CR,Licensed Stores,2016-01-01T00:00:00Z,10.0
+Curacao,,Licensed Stores,2016-01-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2016-01-01T00:00:00Z,9.0
+Czech Republic,CZ,Licensed Stores,2016-01-01T00:00:00Z,23.0
+Denmark,DK,Licensed Stores,2016-01-01T00:00:00Z,20.0
+Egypt,EG,Licensed Stores,2016-01-01T00:00:00Z,33.0
+El Salvador,SV,Licensed Stores,2016-01-01T00:00:00Z,10.0
+Finland,FI,Licensed Stores,2016-01-01T00:00:00Z,5.0
+France,FR,Licensed Stores,2016-01-01T00:00:00Z,35.0
+Germany,DE,Licensed Stores,2016-01-01T00:00:00Z,14.0
+Greece,GR,Licensed Stores,2016-01-01T00:00:00Z,31.0
+Guatemala,GT,Licensed Stores,2016-01-01T00:00:00Z,7.0
+Hong Kong/Macau,,Licensed Stores,2016-01-01T00:00:00Z,163.0
+Hungary,HU,Licensed Stores,2016-01-01T00:00:00Z,12.0
+Indonesia,ID,Licensed Stores,2016-01-01T00:00:00Z,231.0
+Ireland,IE,Licensed Stores,2016-01-01T00:00:00Z,59.0
+Japan,JP,Licensed Stores,2016-01-01T00:00:00Z,58.0
+Jordan,JO,Licensed Stores,2016-01-01T00:00:00Z,13.0
+Kazakhstan,KZ,Licensed Stores,2016-01-01T00:00:00Z,2.0
+Kuwait,KW,Licensed Stores,2016-01-01T00:00:00Z,84.0
+Lebanon,LB,Licensed Stores,2016-01-01T00:00:00Z,28.0
+Malaysia,MY,Licensed Stores,2016-01-01T00:00:00Z,204.0
+Mexico,MX,Licensed Stores,2016-01-01T00:00:00Z,517.0
+Monaco,MC,Licensed Stores,2016-01-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2016-01-01T00:00:00Z,7.0
+New Zealand,NZ,Licensed Stores,2016-01-01T00:00:00Z,26.0
+Norway,NO,Licensed Stores,2016-01-01T00:00:00Z,16.0
+Oman,OM,Licensed Stores,2016-01-01T00:00:00Z,11.0
+Panama,PA,Licensed Stores,2016-01-01T00:00:00Z,3.0
+Peru,PE,Licensed Stores,2016-01-01T00:00:00Z,79.0
+Philippines,PH,Licensed Stores,2016-01-01T00:00:00Z,269.0
+Poland,PL,Licensed Stores,2016-01-01T00:00:00Z,43.0
+Portugal,PT,Licensed Stores,2016-01-01T00:00:00Z,11.0
+Puerto Rico,US_RQ,Licensed Stores,2016-01-01T00:00:00Z,20.0
+Qatar,QA,Licensed Stores,2016-01-01T00:00:00Z,17.0
+Romania,RO,Licensed Stores,2016-01-01T00:00:00Z,19.0
+Russia,RU,Licensed Stores,2016-01-01T00:00:00Z,106.0
+Saudi Arabia,SA,Licensed Stores,2016-01-01T00:00:00Z,76.0
+Singapore,SG,Licensed Stores,2016-01-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2016-01-01T00:00:00Z,868.0
+Spain,ES,Licensed Stores,2016-01-01T00:00:00Z,91.0
+Sweden,SE,Licensed Stores,2016-01-01T00:00:00Z,13.0
+Switzerland,CH,Licensed Stores,2016-01-01T00:00:00Z,5.0
+Taiwan,TW,Licensed Stores,2016-01-01T00:00:00Z,364.0
+Turkey,TR,Licensed Stores,2016-01-01T00:00:00Z,265.0
+UAE - Dubai,AE,Licensed Stores,2016-01-01T00:00:00Z,135.0
+United Kingdom,GB,Licensed Stores,2016-01-01T00:00:00Z,472.0
+United States,US,Licensed Stores,2016-01-01T00:00:00Z,5022.0
+Vietnam,VN,Licensed Stores,2016-01-01T00:00:00Z,18.0
+Andorra,AD,Licensed Stores,2016-01-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2016-01-01T00:00:00Z,9.0
+Jamaica,JM,Licensed Stores,2016-01-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2016-01-01T00:00:00Z,0.0
+Netherlands,NL,Licensed Stores,2016-01-01T00:00:00Z,47.0
+Slovakia,SK,Licensed Stores,2016-01-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2016-01-01T00:00:00Z,0.0
+Total,,Licensed Stores,2016-01-01T00:00:00Z,22410.0
+Trinidad and Tobago,TT,Licensed Stores,2016-01-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2016-01-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2016-04-01T00:00:00Z,95.0
+Aruba,,Licensed Stores,2016-04-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2016-04-01T00:00:00Z,24.0
+Austria,AT,Licensed Stores,2016-04-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2016-04-01T00:00:00Z,2.0
+Bahrain,BH,Licensed Stores,2016-04-01T00:00:00Z,19.0
+Belgium,BE,Licensed Stores,2016-04-01T00:00:00Z,15.0
+Brazil,BR,Licensed Stores,2016-04-01T00:00:00Z,0.0
+Brunei,BN,Licensed Stores,2016-04-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2016-04-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2016-04-01T00:00:00Z,1.0
+Canada,CA,Licensed Stores,2016-04-01T00:00:00Z,351.0
+Chile,CL,Licensed Stores,2016-04-01T00:00:00Z,83.0
+China,CN,Licensed Stores,2016-04-01T00:00:00Z,952.0
+Colombia,CO,Licensed Stores,2016-04-01T00:00:00Z,10.0
+Costa Rica,CR,Licensed Stores,2016-04-01T00:00:00Z,10.0
+Curacao,,Licensed Stores,2016-04-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2016-04-01T00:00:00Z,10.0
+Czech Republic,CZ,Licensed Stores,2016-04-01T00:00:00Z,25.0
+Denmark,DK,Licensed Stores,2016-04-01T00:00:00Z,20.0
+Egypt,EG,Licensed Stores,2016-04-01T00:00:00Z,34.0
+El Salvador,SV,Licensed Stores,2016-04-01T00:00:00Z,10.0
+Finland,FI,Licensed Stores,2016-04-01T00:00:00Z,5.0
+France,FR,Licensed Stores,2016-04-01T00:00:00Z,38.0
+Germany,DE,Licensed Stores,2016-04-01T00:00:00Z,14.0
+Greece,GR,Licensed Stores,2016-04-01T00:00:00Z,30.0
+Guatemala,GT,Licensed Stores,2016-04-01T00:00:00Z,7.0
+Hong Kong/Macau,,Licensed Stores,2016-04-01T00:00:00Z,167.0
+Hungary,HU,Licensed Stores,2016-04-01T00:00:00Z,12.0
+Indonesia,ID,Licensed Stores,2016-04-01T00:00:00Z,237.0
+Ireland,IE,Licensed Stores,2016-04-01T00:00:00Z,65.0
+Japan,JP,Licensed Stores,2016-04-01T00:00:00Z,64.0
+Jordan,JO,Licensed Stores,2016-04-01T00:00:00Z,13.0
+Kazakhstan,KZ,Licensed Stores,2016-04-01T00:00:00Z,2.0
+Kuwait,KW,Licensed Stores,2016-04-01T00:00:00Z,87.0
+Lebanon,LB,Licensed Stores,2016-04-01T00:00:00Z,28.0
+Malaysia,MY,Licensed Stores,2016-04-01T00:00:00Z,209.0
+Mexico,MX,Licensed Stores,2016-04-01T00:00:00Z,527.0
+Monaco,MC,Licensed Stores,2016-04-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2016-04-01T00:00:00Z,7.0
+New Zealand,NZ,Licensed Stores,2016-04-01T00:00:00Z,25.0
+Norway,NO,Licensed Stores,2016-04-01T00:00:00Z,16.0
+Oman,OM,Licensed Stores,2016-04-01T00:00:00Z,11.0
+Panama,PA,Licensed Stores,2016-04-01T00:00:00Z,4.0
+Peru,PE,Licensed Stores,2016-04-01T00:00:00Z,79.0
+Philippines,PH,Licensed Stores,2016-04-01T00:00:00Z,277.0
+Poland,PL,Licensed Stores,2016-04-01T00:00:00Z,42.0
+Portugal,PT,Licensed Stores,2016-04-01T00:00:00Z,11.0
+Puerto Rico,US_RQ,Licensed Stores,2016-04-01T00:00:00Z,20.0
+Qatar,QA,Licensed Stores,2016-04-01T00:00:00Z,17.0
+Romania,RO,Licensed Stores,2016-04-01T00:00:00Z,19.0
+Russia,RU,Licensed Stores,2016-04-01T00:00:00Z,105.0
+Saudi Arabia,SA,Licensed Stores,2016-04-01T00:00:00Z,82.0
+Singapore,SG,Licensed Stores,2016-04-01T00:00:00Z,0.0
+South Korea,KR,Licensed Stores,2016-04-01T00:00:00Z,887.0
+Spain,ES,Licensed Stores,2016-04-01T00:00:00Z,91.0
+Sweden,SE,Licensed Stores,2016-04-01T00:00:00Z,16.0
+Switzerland,CH,Licensed Stores,2016-04-01T00:00:00Z,5.0
+Taiwan,TW,Licensed Stores,2016-04-01T00:00:00Z,374.0
+Turkey,TR,Licensed Stores,2016-04-01T00:00:00Z,277.0
+UAE - Dubai,AE,Licensed Stores,2016-04-01T00:00:00Z,141.0
+United Kingdom,GB,Licensed Stores,2016-04-01T00:00:00Z,485.0
+United States,US,Licensed Stores,2016-04-01T00:00:00Z,5101.0
+Vietnam,VN,Licensed Stores,2016-04-01T00:00:00Z,19.0
+Andorra,AD,Licensed Stores,2016-04-01T00:00:00Z,0.0
+Bahamas,BS,Licensed Stores,2016-04-01T00:00:00Z,10.0
+Jamaica,JM,Licensed Stores,2016-04-01T00:00:00Z,0.0
+Luxembourg,LU,Licensed Stores,2016-04-01T00:00:00Z,2.0
+Netherlands,NL,Licensed Stores,2016-04-01T00:00:00Z,47.0
+Slovakia,SK,Licensed Stores,2016-04-01T00:00:00Z,0.0
+South Africa,ZA,Licensed Stores,2016-04-01T00:00:00Z,0.0
+Total,,Licensed Stores,2016-04-01T00:00:00Z,22954.0
+Trinidad and Tobago,TT,Licensed Stores,2016-04-01T00:00:00Z,0.0
+Uruguay,UY,Licensed Stores,2016-04-01T00:00:00Z,0.0
+Argentina,AR,Licensed Stores,2016-07-01T00:00:00Z,98.0
+Aruba,,Licensed Stores,2016-07-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2016-07-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2016-07-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2016-07-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2016-07-01T00:00:00Z,19.0
+Belgium,BE,Licensed Stores,2016-07-01T00:00:00Z,16.0
+Brazil,BR,Licensed Stores,2016-07-01T00:00:00Z,
+Brunei,BN,Licensed Stores,2016-07-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2016-07-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2016-07-01T00:00:00Z,2.0
+Canada,CA,Licensed Stores,2016-07-01T00:00:00Z,359.0
+Chile,CL,Licensed Stores,2016-07-01T00:00:00Z,89.0
+China,CN,Licensed Stores,2016-07-01T00:00:00Z,1008.0
+Colombia,CO,Licensed Stores,2016-07-01T00:00:00Z,10.0
+Costa Rica,CR,Licensed Stores,2016-07-01T00:00:00Z,10.0
+Curacao,,Licensed Stores,2016-07-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2016-07-01T00:00:00Z,10.0
+Czech Republic,CZ,Licensed Stores,2016-07-01T00:00:00Z,26.0
+Denmark,DK,Licensed Stores,2016-07-01T00:00:00Z,20.0
+Egypt,EG,Licensed Stores,2016-07-01T00:00:00Z,34.0
+El Salvador,SV,Licensed Stores,2016-07-01T00:00:00Z,10.0
+Finland,FI,Licensed Stores,2016-07-01T00:00:00Z,7.0
+France,FR,Licensed Stores,2016-07-01T00:00:00Z,48.0
+Germany,DE,Licensed Stores,2016-07-01T00:00:00Z,160.0
+Greece,GR,Licensed Stores,2016-07-01T00:00:00Z,29.0
+Guatemala,GT,Licensed Stores,2016-07-01T00:00:00Z,7.0
+Hong Kong/Macau,,Licensed Stores,2016-07-01T00:00:00Z,164.0
+Hungary,HU,Licensed Stores,2016-07-01T00:00:00Z,13.0
+Indonesia,ID,Licensed Stores,2016-07-01T00:00:00Z,248.0
+Ireland,IE,Licensed Stores,2016-07-01T00:00:00Z,65.0
+Japan,JP,Licensed Stores,2016-07-01T00:00:00Z,68.0
+Jordan,JO,Licensed Stores,2016-07-01T00:00:00Z,13.0
+Kazakhstan,KZ,Licensed Stores,2016-07-01T00:00:00Z,2.0
+Kuwait,KW,Licensed Stores,2016-07-01T00:00:00Z,89.0
+Lebanon,LB,Licensed Stores,2016-07-01T00:00:00Z,29.0
+Malaysia,MY,Licensed Stores,2016-07-01T00:00:00Z,218.0
+Mexico,MX,Licensed Stores,2016-07-01T00:00:00Z,533.0
+Monaco,MC,Licensed Stores,2016-07-01T00:00:00Z,1.0
+Morocco,MA,Licensed Stores,2016-07-01T00:00:00Z,7.0
+New Zealand,NZ,Licensed Stores,2016-07-01T00:00:00Z,25.0
+Norway,NO,Licensed Stores,2016-07-01T00:00:00Z,17.0
+Oman,OM,Licensed Stores,2016-07-01T00:00:00Z,11.0
+Panama,PA,Licensed Stores,2016-07-01T00:00:00Z,4.0
+Peru,PE,Licensed Stores,2016-07-01T00:00:00Z,80.0
+Philippines,PH,Licensed Stores,2016-07-01T00:00:00Z,284.0
+Poland,PL,Licensed Stores,2016-07-01T00:00:00Z,45.0
+Portugal,PT,Licensed Stores,2016-07-01T00:00:00Z,11.0
+Puerto Rico,US_RQ,Licensed Stores,2016-07-01T00:00:00Z,20.0
+Qatar,QA,Licensed Stores,2016-07-01T00:00:00Z,16.0
+Romania,RO,Licensed Stores,2016-07-01T00:00:00Z,19.0
+Russia,RU,Licensed Stores,2016-07-01T00:00:00Z,106.0
+Saudi Arabia,SA,Licensed Stores,2016-07-01T00:00:00Z,92.0
+Singapore,SG,Licensed Stores,2016-07-01T00:00:00Z,
+South Korea,KR,Licensed Stores,2016-07-01T00:00:00Z,922.0
+Spain,ES,Licensed Stores,2016-07-01T00:00:00Z,93.0
+Sweden,SE,Licensed Stores,2016-07-01T00:00:00Z,17.0
+Switzerland,CH,Licensed Stores,2016-07-01T00:00:00Z,4.0
+Taiwan,TW,Licensed Stores,2016-07-01T00:00:00Z,384.0
+Turkey,TR,Licensed Stores,2016-07-01T00:00:00Z,296.0
+UAE - Dubai,AE,Licensed Stores,2016-07-01T00:00:00Z,145.0
+United Kingdom,GB,Licensed Stores,2016-07-01T00:00:00Z,501.0
+United States,US,Licensed Stores,2016-07-01T00:00:00Z,5186.0
+Vietnam,VN,Licensed Stores,2016-07-01T00:00:00Z,20.0
+Andorra,AD,Licensed Stores,2016-07-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2016-07-01T00:00:00Z,10.0
+Jamaica,JM,Licensed Stores,2016-07-01T00:00:00Z,
+Luxembourg,LU,Licensed Stores,2016-07-01T00:00:00Z,2.0
+Netherlands,NL,Licensed Stores,2016-07-01T00:00:00Z,47.0
+Slovakia,SK,Licensed Stores,2016-07-01T00:00:00Z,1.0
+South Africa,ZA,Licensed Stores,2016-07-01T00:00:00Z,2.0
+Total,,Licensed Stores,2016-07-01T00:00:00Z,23878.0
+Trinidad and Tobago,TT,Licensed Stores,2016-07-01T00:00:00Z,
+Uruguay,UY,Licensed Stores,2016-07-01T00:00:00Z,
+Argentina,AR,Licensed Stores,2016-10-01T00:00:00Z,105.0
+Aruba,,Licensed Stores,2016-10-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2016-10-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2016-10-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2016-10-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2016-10-01T00:00:00Z,20.0
+Belgium,BE,Licensed Stores,2016-10-01T00:00:00Z,18.0
+Brazil,BR,Licensed Stores,2016-10-01T00:00:00Z,
+Brunei,BN,Licensed Stores,2016-10-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2016-10-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2016-10-01T00:00:00Z,2.0
+Canada,CA,Licensed Stores,2016-10-01T00:00:00Z,364.0
+Chile,CL,Licensed Stores,2016-10-01T00:00:00Z,93.0
+China,CN,Licensed Stores,2016-10-01T00:00:00Z,1110.0
+Colombia,CO,Licensed Stores,2016-10-01T00:00:00Z,11.0
+Costa Rica,CR,Licensed Stores,2016-10-01T00:00:00Z,11.0
+Curacao,,Licensed Stores,2016-10-01T00:00:00Z,2.0
+Cyprus,CY,Licensed Stores,2016-10-01T00:00:00Z,10.0
+Czech Republic,CZ,Licensed Stores,2016-10-01T00:00:00Z,26.0
+Denmark,DK,Licensed Stores,2016-10-01T00:00:00Z,21.0
+Egypt,EG,Licensed Stores,2016-10-01T00:00:00Z,34.0
+El Salvador,SV,Licensed Stores,2016-10-01T00:00:00Z,10.0
+Finland,FI,Licensed Stores,2016-10-01T00:00:00Z,8.0
+France,FR,Licensed Stores,2016-10-01T00:00:00Z,50.0
+Germany,DE,Licensed Stores,2016-10-01T00:00:00Z,161.0
+Greece,GR,Licensed Stores,2016-10-01T00:00:00Z,29.0
+Guatemala,GT,Licensed Stores,2016-10-01T00:00:00Z,7.0
+Hong Kong/Macau,,Licensed Stores,2016-10-01T00:00:00Z,169.0
+Hungary,HU,Licensed Stores,2016-10-01T00:00:00Z,14.0
+Indonesia,ID,Licensed Stores,2016-10-01T00:00:00Z,260.0
+Ireland,IE,Licensed Stores,2016-10-01T00:00:00Z,71.0
+Japan,JP,Licensed Stores,2016-10-01T00:00:00Z,72.0
+Jordan,JO,Licensed Stores,2016-10-01T00:00:00Z,16.0
+Kazakhstan,KZ,Licensed Stores,2016-10-01T00:00:00Z,6.0
+Kuwait,KW,Licensed Stores,2016-10-01T00:00:00Z,95.0
+Lebanon,LB,Licensed Stores,2016-10-01T00:00:00Z,29.0
+Malaysia,MY,Licensed Stores,2016-10-01T00:00:00Z,226.0
+Mexico,MX,Licensed Stores,2016-10-01T00:00:00Z,563.0
+Monaco,MC,Licensed Stores,2016-10-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2016-10-01T00:00:00Z,8.0
+New Zealand,NZ,Licensed Stores,2016-10-01T00:00:00Z,25.0
+Norway,NO,Licensed Stores,2016-10-01T00:00:00Z,17.0
+Oman,OM,Licensed Stores,2016-10-01T00:00:00Z,12.0
+Panama,PA,Licensed Stores,2016-10-01T00:00:00Z,5.0
+Peru,PE,Licensed Stores,2016-10-01T00:00:00Z,84.0
+Philippines,PH,Licensed Stores,2016-10-01T00:00:00Z,293.0
+Poland,PL,Licensed Stores,2016-10-01T00:00:00Z,47.0
+Portugal,PT,Licensed Stores,2016-10-01T00:00:00Z,11.0
+Puerto Rico,US_RQ,Licensed Stores,2016-10-01T00:00:00Z,23.0
+Qatar,QA,Licensed Stores,2016-10-01T00:00:00Z,16.0
+Romania,RO,Licensed Stores,2016-10-01T00:00:00Z,22.0
+Russia,RU,Licensed Stores,2016-10-01T00:00:00Z,107.0
+Saudi Arabia,SA,Licensed Stores,2016-10-01T00:00:00Z,92.0
+Singapore,SG,Licensed Stores,2016-10-01T00:00:00Z,
+South Korea,KR,Licensed Stores,2016-10-01T00:00:00Z,952.0
+Spain,ES,Licensed Stores,2016-10-01T00:00:00Z,96.0
+Sweden,SE,Licensed Stores,2016-10-01T00:00:00Z,18.0
+Switzerland,CH,Licensed Stores,2016-10-01T00:00:00Z,3.0
+Taiwan,TW,Licensed Stores,2016-10-01T00:00:00Z,392.0
+Turkey,TR,Licensed Stores,2016-10-01T00:00:00Z,314.0
+UAE - Dubai,AE,Licensed Stores,2016-10-01T00:00:00Z,148.0
+United Kingdom,GB,Licensed Stores,2016-10-01T00:00:00Z,532.0
+United States,US,Licensed Stores,2016-10-01T00:00:00Z,5292.0
+Vietnam,VN,Licensed Stores,2016-10-01T00:00:00Z,21.0
+Andorra,AD,Licensed Stores,2016-10-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2016-10-01T00:00:00Z,10.0
+Jamaica,JM,Licensed Stores,2016-10-01T00:00:00Z,
+Luxembourg,LU,Licensed Stores,2016-10-01T00:00:00Z,2.0
+Netherlands,NL,Licensed Stores,2016-10-01T00:00:00Z,48.0
+Slovakia,SK,Licensed Stores,2016-10-01T00:00:00Z,2.0
+South Africa,ZA,Licensed Stores,2016-10-01T00:00:00Z,3.0
+Total,,Licensed Stores,2016-10-01T00:00:00Z,24748.0
+Trinidad and Tobago,TT,Licensed Stores,2016-10-01T00:00:00Z,1.0
+Uruguay,UY,Licensed Stores,2016-10-01T00:00:00Z,
+Argentina,AR,Licensed Stores,2017-01-01T00:00:00Z,106.0
+Aruba,,Licensed Stores,2017-01-01T00:00:00Z,3.0
+Australia,AU,Licensed Stores,2017-01-01T00:00:00Z,22.0
+Austria,AT,Licensed Stores,2017-01-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2017-01-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2017-01-01T00:00:00Z,21.0
+Belgium,BE,Licensed Stores,2017-01-01T00:00:00Z,19.0
+Brazil,BR,Licensed Stores,2017-01-01T00:00:00Z,
+Brunei,BN,Licensed Stores,2017-01-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2017-01-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2017-01-01T00:00:00Z,4.0
+Canada,CA,Licensed Stores,2017-01-01T00:00:00Z,374.0
+Chile,CL,Licensed Stores,2017-01-01T00:00:00Z,95.0
+China,CN,Licensed Stores,2017-01-01T00:00:00Z,1212.0
+Colombia,CO,Licensed Stores,2017-01-01T00:00:00Z,13.0
+Costa Rica,CR,Licensed Stores,2017-01-01T00:00:00Z,11.0
+Curacao,,Licensed Stores,2017-01-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2017-01-01T00:00:00Z,10.0
+Czech Republic,CZ,Licensed Stores,2017-01-01T00:00:00Z,28.0
+Denmark,DK,Licensed Stores,2017-01-01T00:00:00Z,21.0
+Egypt,EG,Licensed Stores,2017-01-01T00:00:00Z,35.0
+El Salvador,SV,Licensed Stores,2017-01-01T00:00:00Z,11.0
+Finland,FI,Licensed Stores,2017-01-01T00:00:00Z,8.0
+France,FR,Licensed Stores,2017-01-01T00:00:00Z,58.0
+Germany,DE,Licensed Stores,2017-01-01T00:00:00Z,161.0
+Greece,GR,Licensed Stores,2017-01-01T00:00:00Z,29.0
+Guatemala,GT,Licensed Stores,2017-01-01T00:00:00Z,7.0
+Hong Kong/Macau,,Licensed Stores,2017-01-01T00:00:00Z,176.0
+Hungary,HU,Licensed Stores,2017-01-01T00:00:00Z,16.0
+Indonesia,ID,Licensed Stores,2017-01-01T00:00:00Z,270.0
+Ireland,IE,Licensed Stores,2017-01-01T00:00:00Z,72.0
+Japan,JP,Licensed Stores,2017-01-01T00:00:00Z,76.0
+Jordan,JO,Licensed Stores,2017-01-01T00:00:00Z,16.0
+Kazakhstan,KZ,Licensed Stores,2017-01-01T00:00:00Z,8.0
+Kuwait,KW,Licensed Stores,2017-01-01T00:00:00Z,107.0
+Lebanon,LB,Licensed Stores,2017-01-01T00:00:00Z,28.0
+Malaysia,MY,Licensed Stores,2017-01-01T00:00:00Z,231.0
+Mexico,MX,Licensed Stores,2017-01-01T00:00:00Z,592.0
+Monaco,MC,Licensed Stores,2017-01-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2017-01-01T00:00:00Z,9.0
+New Zealand,NZ,Licensed Stores,2017-01-01T00:00:00Z,24.0
+Norway,NO,Licensed Stores,2017-01-01T00:00:00Z,17.0
+Oman,OM,Licensed Stores,2017-01-01T00:00:00Z,12.0
+Panama,PA,Licensed Stores,2017-01-01T00:00:00Z,6.0
+Peru,PE,Licensed Stores,2017-01-01T00:00:00Z,88.0
+Philippines,PH,Licensed Stores,2017-01-01T00:00:00Z,300.0
+Poland,PL,Licensed Stores,2017-01-01T00:00:00Z,54.0
+Portugal,PT,Licensed Stores,2017-01-01T00:00:00Z,11.0
+Puerto Rico,US_RQ,Licensed Stores,2017-01-01T00:00:00Z,23.0
+Qatar,QA,Licensed Stores,2017-01-01T00:00:00Z,19.0
+Romania,RO,Licensed Stores,2017-01-01T00:00:00Z,28.0
+Russia,RU,Licensed Stores,2017-01-01T00:00:00Z,108.0
+Saudi Arabia,SA,Licensed Stores,2017-01-01T00:00:00Z,103.0
+Singapore,SG,Licensed Stores,2017-01-01T00:00:00Z,
+South Korea,KR,Licensed Stores,2017-01-01T00:00:00Z,1000.0
+Spain,ES,Licensed Stores,2017-01-01T00:00:00Z,101.0
+Sweden,SE,Licensed Stores,2017-01-01T00:00:00Z,19.0
+Switzerland,CH,Licensed Stores,2017-01-01T00:00:00Z,3.0
+Taiwan,TW,Licensed Stores,2017-01-01T00:00:00Z,399.0
+Turkey,TR,Licensed Stores,2017-01-01T00:00:00Z,326.0
+UAE - Dubai,AE,Licensed Stores,2017-01-01T00:00:00Z,153.0
+United Kingdom,GB,Licensed Stores,2017-01-01T00:00:00Z,560.0
+United States,US,Licensed Stores,2017-01-01T00:00:00Z,5415.0
+Vietnam,VN,Licensed Stores,2017-01-01T00:00:00Z,25.0
+Andorra,AD,Licensed Stores,2017-01-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2017-01-01T00:00:00Z,10.0
+Jamaica,JM,Licensed Stores,2017-01-01T00:00:00Z,
+Luxembourg,LU,Licensed Stores,2017-01-01T00:00:00Z,2.0
+Netherlands,NL,Licensed Stores,2017-01-01T00:00:00Z,51.0
+Slovakia,SK,Licensed Stores,2017-01-01T00:00:00Z,3.0
+South Africa,ZA,Licensed Stores,2017-01-01T00:00:00Z,3.0
+Total,,Licensed Stores,2017-01-01T00:00:00Z,25728.0
+Trinidad and Tobago,TT,Licensed Stores,2017-01-01T00:00:00Z,3.0
+Uruguay,UY,Licensed Stores,2017-01-01T00:00:00Z,
+Argentina,AR,Licensed Stores,2017-04-01T00:00:00Z,108.0
+Aruba,,Licensed Stores,2017-04-01T00:00:00Z,4.0
+Australia,AU,Licensed Stores,2017-04-01T00:00:00Z,25.0
+Austria,AT,Licensed Stores,2017-04-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2017-04-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2017-04-01T00:00:00Z,21.0
+Belgium,BE,Licensed Stores,2017-04-01T00:00:00Z,19.0
+Brazil,BR,Licensed Stores,2017-04-01T00:00:00Z,
+Brunei,BN,Licensed Stores,2017-04-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2017-04-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2017-04-01T00:00:00Z,4.0
+Canada,CA,Licensed Stores,2017-04-01T00:00:00Z,379.0
+Chile,CL,Licensed Stores,2017-04-01T00:00:00Z,98.0
+China,CN,Licensed Stores,2017-04-01T00:00:00Z,1251.0
+Colombia,CO,Licensed Stores,2017-04-01T00:00:00Z,16.0
+Costa Rica,CR,Licensed Stores,2017-04-01T00:00:00Z,11.0
+Curacao,,Licensed Stores,2017-04-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2017-04-01T00:00:00Z,10.0
+Czech Republic,CZ,Licensed Stores,2017-04-01T00:00:00Z,28.0
+Denmark,DK,Licensed Stores,2017-04-01T00:00:00Z,21.0
+Egypt,EG,Licensed Stores,2017-04-01T00:00:00Z,35.0
+El Salvador,SV,Licensed Stores,2017-04-01T00:00:00Z,11.0
+Finland,FI,Licensed Stores,2017-04-01T00:00:00Z,8.0
+France,FR,Licensed Stores,2017-04-01T00:00:00Z,61.0
+Germany,DE,Licensed Stores,2017-04-01T00:00:00Z,158.0
+Greece,GR,Licensed Stores,2017-04-01T00:00:00Z,28.0
+Guatemala,GT,Licensed Stores,2017-04-01T00:00:00Z,7.0
+Hong Kong/Macau,,Licensed Stores,2017-04-01T00:00:00Z,176.0
+Hungary,HU,Licensed Stores,2017-04-01T00:00:00Z,16.0
+Indonesia,ID,Licensed Stores,2017-04-01T00:00:00Z,284.0
+Ireland,IE,Licensed Stores,2017-04-01T00:00:00Z,74.0
+Japan,JP,Licensed Stores,2017-04-01T00:00:00Z,80.0
+Jordan,JO,Licensed Stores,2017-04-01T00:00:00Z,17.0
+Kazakhstan,KZ,Licensed Stores,2017-04-01T00:00:00Z,10.0
+Kuwait,KW,Licensed Stores,2017-04-01T00:00:00Z,111.0
+Lebanon,LB,Licensed Stores,2017-04-01T00:00:00Z,29.0
+Malaysia,MY,Licensed Stores,2017-04-01T00:00:00Z,238.0
+Mexico,MX,Licensed Stores,2017-04-01T00:00:00Z,601.0
+Monaco,MC,Licensed Stores,2017-04-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2017-04-01T00:00:00Z,9.0
+New Zealand,NZ,Licensed Stores,2017-04-01T00:00:00Z,24.0
+Norway,NO,Licensed Stores,2017-04-01T00:00:00Z,18.0
+Oman,OM,Licensed Stores,2017-04-01T00:00:00Z,12.0
+Panama,PA,Licensed Stores,2017-04-01T00:00:00Z,6.0
+Peru,PE,Licensed Stores,2017-04-01T00:00:00Z,89.0
+Philippines,PH,Licensed Stores,2017-04-01T00:00:00Z,305.0
+Poland,PL,Licensed Stores,2017-04-01T00:00:00Z,54.0
+Portugal,PT,Licensed Stores,2017-04-01T00:00:00Z,11.0
+Puerto Rico,US_RQ,Licensed Stores,2017-04-01T00:00:00Z,23.0
+Qatar,QA,Licensed Stores,2017-04-01T00:00:00Z,22.0
+Romania,RO,Licensed Stores,2017-04-01T00:00:00Z,28.0
+Russia,RU,Licensed Stores,2017-04-01T00:00:00Z,110.0
+Saudi Arabia,SA,Licensed Stores,2017-04-01T00:00:00Z,110.0
+Singapore,SG,Licensed Stores,2017-04-01T00:00:00Z,
+South Korea,KR,Licensed Stores,2017-04-01T00:00:00Z,1032.0
+Spain,ES,Licensed Stores,2017-04-01T00:00:00Z,102.0
+Sweden,SE,Licensed Stores,2017-04-01T00:00:00Z,17.0
+Switzerland,CH,Licensed Stores,2017-04-01T00:00:00Z,4.0
+Taiwan,TW,Licensed Stores,2017-04-01T00:00:00Z,410.0
+Turkey,TR,Licensed Stores,2017-04-01T00:00:00Z,340.0
+UAE - Dubai,AE,Licensed Stores,2017-04-01T00:00:00Z,156.0
+United Kingdom,GB,Licensed Stores,2017-04-01T00:00:00Z,565.0
+United States,US,Licensed Stores,2017-04-01T00:00:00Z,5509.0
+Vietnam,VN,Licensed Stores,2017-04-01T00:00:00Z,27.0
+Andorra,AD,Licensed Stores,2017-04-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2017-04-01T00:00:00Z,10.0
+Jamaica,JM,Licensed Stores,2017-04-01T00:00:00Z,
+Luxembourg,LU,Licensed Stores,2017-04-01T00:00:00Z,2.0
+Netherlands,NL,Licensed Stores,2017-04-01T00:00:00Z,53.0
+Slovakia,SK,Licensed Stores,2017-04-01T00:00:00Z,3.0
+South Africa,ZA,Licensed Stores,2017-04-01T00:00:00Z,3.0
+Total,,Licensed Stores,2017-04-01T00:00:00Z,26298.0
+Trinidad and Tobago,TT,Licensed Stores,2017-04-01T00:00:00Z,3.0
+Uruguay,UY,Licensed Stores,2017-04-01T00:00:00Z,
+Argentina,AR,Licensed Stores,2017-07-01T00:00:00Z,115.0
+Aruba,,Licensed Stores,2017-07-01T00:00:00Z,4.0
+Australia,AU,Licensed Stores,2017-07-01T00:00:00Z,29.0
+Austria,AT,Licensed Stores,2017-07-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2017-07-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2017-07-01T00:00:00Z,23.0
+Belgium,BE,Licensed Stores,2017-07-01T00:00:00Z,19.0
+Brazil,BR,Licensed Stores,2017-07-01T00:00:00Z,
+Brunei,BN,Licensed Stores,2017-07-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2017-07-01T00:00:00Z,5.0
+Cambodia,KH,Licensed Stores,2017-07-01T00:00:00Z,5.0
+Canada,CA,Licensed Stores,2017-07-01T00:00:00Z,368.0
+Chile,CL,Licensed Stores,2017-07-01T00:00:00Z,101.0
+China,CN,Licensed Stores,2017-07-01T00:00:00Z,1303.0
+Colombia,CO,Licensed Stores,2017-07-01T00:00:00Z,20.0
+Costa Rica,CR,Licensed Stores,2017-07-01T00:00:00Z,11.0
+Curacao,,Licensed Stores,2017-07-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2017-07-01T00:00:00Z,10.0
+Czech Republic,CZ,Licensed Stores,2017-07-01T00:00:00Z,30.0
+Denmark,DK,Licensed Stores,2017-07-01T00:00:00Z,22.0
+Egypt,EG,Licensed Stores,2017-07-01T00:00:00Z,32.0
+El Salvador,SV,Licensed Stores,2017-07-01T00:00:00Z,11.0
+Finland,FI,Licensed Stores,2017-07-01T00:00:00Z,8.0
+France,FR,Licensed Stores,2017-07-01T00:00:00Z,69.0
+Germany,DE,Licensed Stores,2017-07-01T00:00:00Z,157.0
+Greece,GR,Licensed Stores,2017-07-01T00:00:00Z,28.0
+Guatemala,GT,Licensed Stores,2017-07-01T00:00:00Z,7.0
+Hong Kong/Macau,,Licensed Stores,2017-07-01T00:00:00Z,179.0
+Hungary,HU,Licensed Stores,2017-07-01T00:00:00Z,16.0
+Indonesia,ID,Licensed Stores,2017-07-01T00:00:00Z,303.0
+Ireland,IE,Licensed Stores,2017-07-01T00:00:00Z,76.0
+Japan,JP,Licensed Stores,2017-07-01T00:00:00Z,84.0
+Jordan,JO,Licensed Stores,2017-07-01T00:00:00Z,18.0
+Kazakhstan,KZ,Licensed Stores,2017-07-01T00:00:00Z,12.0
+Kuwait,KW,Licensed Stores,2017-07-01T00:00:00Z,115.0
+Lebanon,LB,Licensed Stores,2017-07-01T00:00:00Z,31.0
+Malaysia,MY,Licensed Stores,2017-07-01T00:00:00Z,241.0
+Mexico,MX,Licensed Stores,2017-07-01T00:00:00Z,613.0
+Monaco,MC,Licensed Stores,2017-07-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2017-07-01T00:00:00Z,9.0
+New Zealand,NZ,Licensed Stores,2017-07-01T00:00:00Z,24.0
+Norway,NO,Licensed Stores,2017-07-01T00:00:00Z,20.0
+Oman,OM,Licensed Stores,2017-07-01T00:00:00Z,12.0
+Panama,PA,Licensed Stores,2017-07-01T00:00:00Z,6.0
+Peru,PE,Licensed Stores,2017-07-01T00:00:00Z,89.0
+Philippines,PH,Licensed Stores,2017-07-01T00:00:00Z,311.0
+Poland,PL,Licensed Stores,2017-07-01T00:00:00Z,56.0
+Portugal,PT,Licensed Stores,2017-07-01T00:00:00Z,11.0
+Puerto Rico,US_RQ,Licensed Stores,2017-07-01T00:00:00Z,23.0
+Qatar,QA,Licensed Stores,2017-07-01T00:00:00Z,25.0
+Romania,RO,Licensed Stores,2017-07-01T00:00:00Z,30.0
+Russia,RU,Licensed Stores,2017-07-01T00:00:00Z,112.0
+Saudi Arabia,SA,Licensed Stores,2017-07-01T00:00:00Z,115.0
+Singapore,SG,Licensed Stores,2017-07-01T00:00:00Z,
+South Korea,KR,Licensed Stores,2017-07-01T00:00:00Z,1067.0
+Spain,ES,Licensed Stores,2017-07-01T00:00:00Z,108.0
+Sweden,SE,Licensed Stores,2017-07-01T00:00:00Z,16.0
+Switzerland,CH,Licensed Stores,2017-07-01T00:00:00Z,4.0
+Taiwan,TW,Licensed Stores,2017-07-01T00:00:00Z,414.0
+Turkey,TR,Licensed Stores,2017-07-01T00:00:00Z,364.0
+UAE - Dubai,AE,Licensed Stores,2017-07-01T00:00:00Z,158.0
+United Kingdom,GB,Licensed Stores,2017-07-01T00:00:00Z,580.0
+United States,US,Licensed Stores,2017-07-01T00:00:00Z,5610.0
+Vietnam,VN,Licensed Stores,2017-07-01T00:00:00Z,28.0
+Andorra,AD,Licensed Stores,2017-07-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2017-07-01T00:00:00Z,12.0
+Jamaica,JM,Licensed Stores,2017-07-01T00:00:00Z,
+Luxembourg,LU,Licensed Stores,2017-07-01T00:00:00Z,3.0
+Netherlands,NL,Licensed Stores,2017-07-01T00:00:00Z,55.0
+Slovakia,SK,Licensed Stores,2017-07-01T00:00:00Z,3.0
+South Africa,ZA,Licensed Stores,2017-07-01T00:00:00Z,4.0
+Total,,Licensed Stores,2017-07-01T00:00:00Z,26974.0
+Trinidad and Tobago,TT,Licensed Stores,2017-07-01T00:00:00Z,4.0
+Uruguay,UY,Licensed Stores,2017-07-01T00:00:00Z,
+Argentina,AR,Licensed Stores,2017-10-01T00:00:00Z,124.0
+Aruba,,Licensed Stores,2017-10-01T00:00:00Z,4.0
+Australia,AU,Licensed Stores,2017-10-01T00:00:00Z,31.0
+Austria,AT,Licensed Stores,2017-10-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2017-10-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2017-10-01T00:00:00Z,23.0
+Belgium,BE,Licensed Stores,2017-10-01T00:00:00Z,21.0
+Brazil,BR,Licensed Stores,2017-10-01T00:00:00Z,
+Brunei,BN,Licensed Stores,2017-10-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2017-10-01T00:00:00Z,6.0
+Cambodia,KH,Licensed Stores,2017-10-01T00:00:00Z,7.0
+Canada,CA,Licensed Stores,2017-10-01T00:00:00Z,377.0
+Chile,CL,Licensed Stores,2017-10-01T00:00:00Z,105.0
+China,CN,Licensed Stores,2017-10-01T00:00:00Z,1396.0
+Colombia,CO,Licensed Stores,2017-10-01T00:00:00Z,21.0
+Costa Rica,CR,Licensed Stores,2017-10-01T00:00:00Z,12.0
+Curacao,,Licensed Stores,2017-10-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2017-10-01T00:00:00Z,10.0
+Czech Republic,CZ,Licensed Stores,2017-10-01T00:00:00Z,30.0
+Denmark,DK,Licensed Stores,2017-10-01T00:00:00Z,21.0
+Egypt,EG,Licensed Stores,2017-10-01T00:00:00Z,32.0
+El Salvador,SV,Licensed Stores,2017-10-01T00:00:00Z,11.0
+Finland,FI,Licensed Stores,2017-10-01T00:00:00Z,8.0
+France,FR,Licensed Stores,2017-10-01T00:00:00Z,70.0
+Germany,DE,Licensed Stores,2017-10-01T00:00:00Z,156.0
+Greece,GR,Licensed Stores,2017-10-01T00:00:00Z,29.0
+Guatemala,GT,Licensed Stores,2017-10-01T00:00:00Z,7.0
+Hong Kong/Macau,,Licensed Stores,2017-10-01T00:00:00Z,180.0
+Hungary,HU,Licensed Stores,2017-10-01T00:00:00Z,17.0
+Indonesia,ID,Licensed Stores,2017-10-01T00:00:00Z,317.0
+Ireland,IE,Licensed Stores,2017-10-01T00:00:00Z,78.0
+Japan,JP,Licensed Stores,2017-10-01T00:00:00Z,86.0
+Jordan,JO,Licensed Stores,2017-10-01T00:00:00Z,21.0
+Kazakhstan,KZ,Licensed Stores,2017-10-01T00:00:00Z,13.0
+Kuwait,KW,Licensed Stores,2017-10-01T00:00:00Z,118.0
+Lebanon,LB,Licensed Stores,2017-10-01T00:00:00Z,36.0
+Malaysia,MY,Licensed Stores,2017-10-01T00:00:00Z,248.0
+Mexico,MX,Licensed Stores,2017-10-01T00:00:00Z,632.0
+Monaco,MC,Licensed Stores,2017-10-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2017-10-01T00:00:00Z,10.0
+New Zealand,NZ,Licensed Stores,2017-10-01T00:00:00Z,23.0
+Norway,NO,Licensed Stores,2017-10-01T00:00:00Z,23.0
+Oman,OM,Licensed Stores,2017-10-01T00:00:00Z,12.0
+Panama,PA,Licensed Stores,2017-10-01T00:00:00Z,6.0
+Peru,PE,Licensed Stores,2017-10-01T00:00:00Z,91.0
+Philippines,PH,Licensed Stores,2017-10-01T00:00:00Z,324.0
+Poland,PL,Licensed Stores,2017-10-01T00:00:00Z,59.0
+Portugal,PT,Licensed Stores,2017-10-01T00:00:00Z,11.0
+Puerto Rico,US_RQ,Licensed Stores,2017-10-01T00:00:00Z,24.0
+Qatar,QA,Licensed Stores,2017-10-01T00:00:00Z,30.0
+Romania,RO,Licensed Stores,2017-10-01T00:00:00Z,31.0
+Russia,RU,Licensed Stores,2017-10-01T00:00:00Z,115.0
+Saudi Arabia,SA,Licensed Stores,2017-10-01T00:00:00Z,124.0
+Singapore,SG,Licensed Stores,2017-10-01T00:00:00Z,134.0
+South Korea,KR,Licensed Stores,2017-10-01T00:00:00Z,1108.0
+Spain,ES,Licensed Stores,2017-10-01T00:00:00Z,113.0
+Sweden,SE,Licensed Stores,2017-10-01T00:00:00Z,16.0
+Switzerland,CH,Licensed Stores,2017-10-01T00:00:00Z,5.0
+Taiwan,TW,Licensed Stores,2017-10-01T00:00:00Z,420.0
+Turkey,TR,Licensed Stores,2017-10-01T00:00:00Z,387.0
+UAE - Dubai,AE,Licensed Stores,2017-10-01T00:00:00Z,164.0
+United Kingdom,GB,Licensed Stores,2017-10-01T00:00:00Z,606.0
+United States,US,Licensed Stores,2017-10-01T00:00:00Z,5708.0
+Vietnam,VN,Licensed Stores,2017-10-01T00:00:00Z,31.0
+Andorra,AD,Licensed Stores,2017-10-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2017-10-01T00:00:00Z,12.0
+Jamaica,JM,Licensed Stores,2017-10-01T00:00:00Z,
+Luxembourg,LU,Licensed Stores,2017-10-01T00:00:00Z,3.0
+Netherlands,NL,Licensed Stores,2017-10-01T00:00:00Z,57.0
+Slovakia,SK,Licensed Stores,2017-10-01T00:00:00Z,3.0
+South Africa,ZA,Licensed Stores,2017-10-01T00:00:00Z,6.0
+Total,,Licensed Stores,2017-10-01T00:00:00Z,28128.0
+Trinidad and Tobago,TT,Licensed Stores,2017-10-01T00:00:00Z,5.0
+Uruguay,UY,Licensed Stores,2017-10-01T00:00:00Z,
+Argentina,AR,Licensed Stores,2018-01-01T00:00:00Z,126.0
+Aruba,,Licensed Stores,2018-01-01T00:00:00Z,4.0
+Australia,AU,Licensed Stores,2018-01-01T00:00:00Z,34.0
+Austria,AT,Licensed Stores,2018-01-01T00:00:00Z,1.0
+Azerbaijan,AZ,Licensed Stores,2018-01-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2018-01-01T00:00:00Z,25.0
+Belgium,BE,Licensed Stores,2018-01-01T00:00:00Z,21.0
+Brazil,BR,Licensed Stores,2018-01-01T00:00:00Z,
+Brunei,BN,Licensed Stores,2018-01-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2018-01-01T00:00:00Z,7.0
+Cambodia,KH,Licensed Stores,2018-01-01T00:00:00Z,8.0
+Canada,CA,Licensed Stores,2018-01-01T00:00:00Z,384.0
+Chile,CL,Licensed Stores,2018-01-01T00:00:00Z,107.0
+China,CN,Licensed Stores,2018-01-01T00:00:00Z,
+Colombia,CO,Licensed Stores,2018-01-01T00:00:00Z,24.0
+Costa Rica,CR,Licensed Stores,2018-01-01T00:00:00Z,12.0
+Curacao,,Licensed Stores,2018-01-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2018-01-01T00:00:00Z,11.0
+Czech Republic,CZ,Licensed Stores,2018-01-01T00:00:00Z,34.0
+Denmark,DK,Licensed Stores,2018-01-01T00:00:00Z,21.0
+Egypt,EG,Licensed Stores,2018-01-01T00:00:00Z,36.0
+El Salvador,SV,Licensed Stores,2018-01-01T00:00:00Z,11.0
+Finland,FI,Licensed Stores,2018-01-01T00:00:00Z,9.0
+France,FR,Licensed Stores,2018-01-01T00:00:00Z,78.0
+Germany,DE,Licensed Stores,2018-01-01T00:00:00Z,154.0
+Greece,GR,Licensed Stores,2018-01-01T00:00:00Z,30.0
+Guatemala,GT,Licensed Stores,2018-01-01T00:00:00Z,7.0
+Hong Kong/Macau,,Licensed Stores,2018-01-01T00:00:00Z,185.0
+Hungary,HU,Licensed Stores,2018-01-01T00:00:00Z,20.0
+Indonesia,ID,Licensed Stores,2018-01-01T00:00:00Z,319.0
+Ireland,IE,Licensed Stores,2018-01-01T00:00:00Z,79.0
+Japan,JP,Licensed Stores,2018-01-01T00:00:00Z,92.0
+Jordan,JO,Licensed Stores,2018-01-01T00:00:00Z,22.0
+Kazakhstan,KZ,Licensed Stores,2018-01-01T00:00:00Z,14.0
+Kuwait,KW,Licensed Stores,2018-01-01T00:00:00Z,121.0
+Lebanon,LB,Licensed Stores,2018-01-01T00:00:00Z,37.0
+Malaysia,MY,Licensed Stores,2018-01-01T00:00:00Z,255.0
+Mexico,MX,Licensed Stores,2018-01-01T00:00:00Z,643.0
+Monaco,MC,Licensed Stores,2018-01-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2018-01-01T00:00:00Z,11.0
+New Zealand,NZ,Licensed Stores,2018-01-01T00:00:00Z,23.0
+Norway,NO,Licensed Stores,2018-01-01T00:00:00Z,23.0
+Oman,OM,Licensed Stores,2018-01-01T00:00:00Z,13.0
+Panama,PA,Licensed Stores,2018-01-01T00:00:00Z,6.0
+Peru,PE,Licensed Stores,2018-01-01T00:00:00Z,94.0
+Philippines,PH,Licensed Stores,2018-01-01T00:00:00Z,334.0
+Poland,PL,Licensed Stores,2018-01-01T00:00:00Z,66.0
+Portugal,PT,Licensed Stores,2018-01-01T00:00:00Z,14.0
+Puerto Rico,US_RQ,Licensed Stores,2018-01-01T00:00:00Z,25.0
+Qatar,QA,Licensed Stores,2018-01-01T00:00:00Z,32.0
+Romania,RO,Licensed Stores,2018-01-01T00:00:00Z,34.0
+Russia,RU,Licensed Stores,2018-01-01T00:00:00Z,117.0
+Saudi Arabia,SA,Licensed Stores,2018-01-01T00:00:00Z,137.0
+Singapore,SG,Licensed Stores,2018-01-01T00:00:00Z,136.0
+South Korea,KR,Licensed Stores,2018-01-01T00:00:00Z,1141.0
+Spain,ES,Licensed Stores,2018-01-01T00:00:00Z,120.0
+Sweden,SE,Licensed Stores,2018-01-01T00:00:00Z,15.0
+Switzerland,CH,Licensed Stores,2018-01-01T00:00:00Z,7.0
+Taiwan,TW,Licensed Stores,2018-01-01T00:00:00Z,427.0
+Turkey,TR,Licensed Stores,2018-01-01T00:00:00Z,407.0
+UAE - Dubai,AE,Licensed Stores,2018-01-01T00:00:00Z,169.0
+United Kingdom,GB,Licensed Stores,2018-01-01T00:00:00Z,627.0
+United States,US,Licensed Stores,2018-01-01T00:00:00Z,5843.0
+Vietnam,VN,Licensed Stores,2018-01-01T00:00:00Z,33.0
+Andorra,AD,Licensed Stores,2018-01-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2018-01-01T00:00:00Z,12.0
+Jamaica,JM,Licensed Stores,2018-01-01T00:00:00Z,1.0
+Luxembourg,LU,Licensed Stores,2018-01-01T00:00:00Z,3.0
+Netherlands,NL,Licensed Stores,2018-01-01T00:00:00Z,58.0
+Slovakia,SK,Licensed Stores,2018-01-01T00:00:00Z,4.0
+South Africa,ZA,Licensed Stores,2018-01-01T00:00:00Z,10.0
+Total,,Licensed Stores,2018-01-01T00:00:00Z,26080.0
+Trinidad and Tobago,TT,Licensed Stores,2018-01-01T00:00:00Z,6.0
+Uruguay,UY,Licensed Stores,2018-01-01T00:00:00Z,
+Argentina,AR,Licensed Stores,2018-04-01T00:00:00Z,129.0
+Aruba,,Licensed Stores,2018-04-01T00:00:00Z,4.0
+Australia,AU,Licensed Stores,2018-04-01T00:00:00Z,36.0
+Austria,AT,Licensed Stores,2018-04-01T00:00:00Z,2.0
+Azerbaijan,AZ,Licensed Stores,2018-04-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2018-04-01T00:00:00Z,26.0
+Belgium,BE,Licensed Stores,2018-04-01T00:00:00Z,21.0
+Brazil,BR,Licensed Stores,2018-04-01T00:00:00Z,114.0
+Brunei,BN,Licensed Stores,2018-04-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2018-04-01T00:00:00Z,7.0
+Cambodia,KH,Licensed Stores,2018-04-01T00:00:00Z,10.0
+Canada,CA,Licensed Stores,2018-04-01T00:00:00Z,399.0
+Chile,CL,Licensed Stores,2018-04-01T00:00:00Z,110.0
+China,CN,Licensed Stores,2018-04-01T00:00:00Z,
+Colombia,CO,Licensed Stores,2018-04-01T00:00:00Z,24.0
+Costa Rica,CR,Licensed Stores,2018-04-01T00:00:00Z,13.0
+Curacao,,Licensed Stores,2018-04-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2018-04-01T00:00:00Z,11.0
+Czech Republic,CZ,Licensed Stores,2018-04-01T00:00:00Z,34.0
+Denmark,DK,Licensed Stores,2018-04-01T00:00:00Z,21.0
+Egypt,EG,Licensed Stores,2018-04-01T00:00:00Z,37.0
+El Salvador,SV,Licensed Stores,2018-04-01T00:00:00Z,11.0
+Finland,FI,Licensed Stores,2018-04-01T00:00:00Z,8.0
+France,FR,Licensed Stores,2018-04-01T00:00:00Z,84.0
+Germany,DE,Licensed Stores,2018-04-01T00:00:00Z,154.0
+Greece,GR,Licensed Stores,2018-04-01T00:00:00Z,29.0
+Guatemala,GT,Licensed Stores,2018-04-01T00:00:00Z,7.0
+Hong Kong/Macau,,Licensed Stores,2018-04-01T00:00:00Z,186.0
+Hungary,HU,Licensed Stores,2018-04-01T00:00:00Z,19.0
+Indonesia,ID,Licensed Stores,2018-04-01T00:00:00Z,329.0
+Ireland,IE,Licensed Stores,2018-04-01T00:00:00Z,79.0
+Japan,JP,Licensed Stores,2018-04-01T00:00:00Z,96.0
+Jordan,JO,Licensed Stores,2018-04-01T00:00:00Z,22.0
+Kazakhstan,KZ,Licensed Stores,2018-04-01T00:00:00Z,15.0
+Kuwait,KW,Licensed Stores,2018-04-01T00:00:00Z,133.0
+Lebanon,LB,Licensed Stores,2018-04-01T00:00:00Z,37.0
+Malaysia,MY,Licensed Stores,2018-04-01T00:00:00Z,258.0
+Mexico,MX,Licensed Stores,2018-04-01T00:00:00Z,666.0
+Monaco,MC,Licensed Stores,2018-04-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2018-04-01T00:00:00Z,11.0
+New Zealand,NZ,Licensed Stores,2018-04-01T00:00:00Z,22.0
+Norway,NO,Licensed Stores,2018-04-01T00:00:00Z,23.0
+Oman,OM,Licensed Stores,2018-04-01T00:00:00Z,13.0
+Panama,PA,Licensed Stores,2018-04-01T00:00:00Z,6.0
+Peru,PE,Licensed Stores,2018-04-01T00:00:00Z,97.0
+Philippines,PH,Licensed Stores,2018-04-01T00:00:00Z,340.0
+Poland,PL,Licensed Stores,2018-04-01T00:00:00Z,66.0
+Portugal,PT,Licensed Stores,2018-04-01T00:00:00Z,15.0
+Puerto Rico,US_RQ,Licensed Stores,2018-04-01T00:00:00Z,25.0
+Qatar,QA,Licensed Stores,2018-04-01T00:00:00Z,33.0
+Romania,RO,Licensed Stores,2018-04-01T00:00:00Z,38.0
+Russia,RU,Licensed Stores,2018-04-01T00:00:00Z,120.0
+Saudi Arabia,SA,Licensed Stores,2018-04-01T00:00:00Z,147.0
+Singapore,SG,Licensed Stores,2018-04-01T00:00:00Z,138.0
+South Korea,KR,Licensed Stores,2018-04-01T00:00:00Z,1175.0
+Spain,ES,Licensed Stores,2018-04-01T00:00:00Z,125.0
+Sweden,SE,Licensed Stores,2018-04-01T00:00:00Z,15.0
+Switzerland,CH,Licensed Stores,2018-04-01T00:00:00Z,7.0
+Taiwan,TW,Licensed Stores,2018-04-01T00:00:00Z,435.0
+Turkey,TR,Licensed Stores,2018-04-01T00:00:00Z,417.0
+UAE - Dubai,AE,Licensed Stores,2018-04-01T00:00:00Z,173.0
+United Kingdom,GB,Licensed Stores,2018-04-01T00:00:00Z,638.0
+United States,US,Licensed Stores,2018-04-01T00:00:00Z,5895.0
+Vietnam,VN,Licensed Stores,2018-04-01T00:00:00Z,35.0
+Andorra,AD,Licensed Stores,2018-04-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2018-04-01T00:00:00Z,12.0
+Jamaica,JM,Licensed Stores,2018-04-01T00:00:00Z,2.0
+Luxembourg,LU,Licensed Stores,2018-04-01T00:00:00Z,3.0
+Netherlands,NL,Licensed Stores,2018-04-01T00:00:00Z,61.0
+Slovakia,SK,Licensed Stores,2018-04-01T00:00:00Z,4.0
+South Africa,ZA,Licensed Stores,2018-04-01T00:00:00Z,10.0
+Total,,Licensed Stores,2018-04-01T00:00:00Z,26794.0
+Trinidad and Tobago,TT,Licensed Stores,2018-04-01T00:00:00Z,7.0
+Uruguay,UY,Licensed Stores,2018-04-01T00:00:00Z,
+Argentina,AR,Licensed Stores,2018-07-01T00:00:00Z,135.0
+Aruba,,Licensed Stores,2018-07-01T00:00:00Z,4.0
+Australia,AU,Licensed Stores,2018-07-01T00:00:00Z,38.0
+Austria,AT,Licensed Stores,2018-07-01T00:00:00Z,2.0
+Azerbaijan,AZ,Licensed Stores,2018-07-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2018-07-01T00:00:00Z,28.0
+Belgium,BE,Licensed Stores,2018-07-01T00:00:00Z,25.0
+Brazil,BR,Licensed Stores,2018-07-01T00:00:00Z,116.0
+Brunei,BN,Licensed Stores,2018-07-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2018-07-01T00:00:00Z,9.0
+Cambodia,KH,Licensed Stores,2018-07-01T00:00:00Z,12.0
+Canada,CA,Licensed Stores,2018-07-01T00:00:00Z,403.0
+Chile,CL,Licensed Stores,2018-07-01T00:00:00Z,113.0
+China,CN,Licensed Stores,2018-07-01T00:00:00Z,
+Colombia,CO,Licensed Stores,2018-07-01T00:00:00Z,26.0
+Costa Rica,CR,Licensed Stores,2018-07-01T00:00:00Z,13.0
+Curacao,,Licensed Stores,2018-07-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2018-07-01T00:00:00Z,11.0
+Czech Republic,CZ,Licensed Stores,2018-07-01T00:00:00Z,35.0
+Denmark,DK,Licensed Stores,2018-07-01T00:00:00Z,20.0
+Egypt,EG,Licensed Stores,2018-07-01T00:00:00Z,37.0
+El Salvador,SV,Licensed Stores,2018-07-01T00:00:00Z,11.0
+Finland,FI,Licensed Stores,2018-07-01T00:00:00Z,8.0
+France,FR,Licensed Stores,2018-07-01T00:00:00Z,89.0
+Germany,DE,Licensed Stores,2018-07-01T00:00:00Z,151.0
+Greece,GR,Licensed Stores,2018-07-01T00:00:00Z,30.0
+Guatemala,GT,Licensed Stores,2018-07-01T00:00:00Z,8.0
+Hong Kong/Macau,,Licensed Stores,2018-07-01T00:00:00Z,188.0
+Hungary,HU,Licensed Stores,2018-07-01T00:00:00Z,20.0
+Indonesia,ID,Licensed Stores,2018-07-01T00:00:00Z,351.0
+Ireland,IE,Licensed Stores,2018-07-01T00:00:00Z,79.0
+Japan,JP,Licensed Stores,2018-07-01T00:00:00Z,102.0
+Jordan,JO,Licensed Stores,2018-07-01T00:00:00Z,22.0
+Kazakhstan,KZ,Licensed Stores,2018-07-01T00:00:00Z,16.0
+Kuwait,KW,Licensed Stores,2018-07-01T00:00:00Z,140.0
+Lebanon,LB,Licensed Stores,2018-07-01T00:00:00Z,37.0
+Malaysia,MY,Licensed Stores,2018-07-01T00:00:00Z,262.0
+Mexico,MX,Licensed Stores,2018-07-01T00:00:00Z,679.0
+Monaco,MC,Licensed Stores,2018-07-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2018-07-01T00:00:00Z,11.0
+New Zealand,NZ,Licensed Stores,2018-07-01T00:00:00Z,22.0
+Norway,NO,Licensed Stores,2018-07-01T00:00:00Z,45.0
+Oman,OM,Licensed Stores,2018-07-01T00:00:00Z,13.0
+Panama,PA,Licensed Stores,2018-07-01T00:00:00Z,7.0
+Peru,PE,Licensed Stores,2018-07-01T00:00:00Z,99.0
+Philippines,PH,Licensed Stores,2018-07-01T00:00:00Z,346.0
+Poland,PL,Licensed Stores,2018-07-01T00:00:00Z,67.0
+Portugal,PT,Licensed Stores,2018-07-01T00:00:00Z,17.0
+Puerto Rico,US_RQ,Licensed Stores,2018-07-01T00:00:00Z,25.0
+Qatar,QA,Licensed Stores,2018-07-01T00:00:00Z,33.0
+Romania,RO,Licensed Stores,2018-07-01T00:00:00Z,40.0
+Russia,RU,Licensed Stores,2018-07-01T00:00:00Z,123.0
+Saudi Arabia,SA,Licensed Stores,2018-07-01T00:00:00Z,154.0
+Singapore,SG,Licensed Stores,2018-07-01T00:00:00Z,138.0
+South Korea,KR,Licensed Stores,2018-07-01T00:00:00Z,1209.0
+Spain,ES,Licensed Stores,2018-07-01T00:00:00Z,132.0
+Sweden,SE,Licensed Stores,2018-07-01T00:00:00Z,15.0
+Switzerland,CH,Licensed Stores,2018-07-01T00:00:00Z,7.0
+Taiwan,TW,Licensed Stores,2018-07-01T00:00:00Z,444.0
+Turkey,TR,Licensed Stores,2018-07-01T00:00:00Z,437.0
+UAE - Dubai,AE,Licensed Stores,2018-07-01T00:00:00Z,179.0
+United Kingdom,GB,Licensed Stores,2018-07-01T00:00:00Z,622.0
+United States,US,Licensed Stores,2018-07-01T00:00:00Z,5943.0
+Vietnam,VN,Licensed Stores,2018-07-01T00:00:00Z,38.0
+Andorra,AD,Licensed Stores,2018-07-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2018-07-01T00:00:00Z,12.0
+Jamaica,JM,Licensed Stores,2018-07-01T00:00:00Z,5.0
+Luxembourg,LU,Licensed Stores,2018-07-01T00:00:00Z,3.0
+Netherlands,NL,Licensed Stores,2018-07-01T00:00:00Z,62.0
+Slovakia,SK,Licensed Stores,2018-07-01T00:00:00Z,4.0
+South Africa,ZA,Licensed Stores,2018-07-01T00:00:00Z,11.0
+Total,,Licensed Stores,2018-07-01T00:00:00Z,27300.0
+Trinidad and Tobago,TT,Licensed Stores,2018-07-01T00:00:00Z,7.0
+Uruguay,UY,Licensed Stores,2018-07-01T00:00:00Z,1.0
+Argentina,AR,Licensed Stores,2018-10-01T00:00:00Z,143.0
+Aruba,,Licensed Stores,2018-10-01T00:00:00Z,4.0
+Australia,AU,Licensed Stores,2018-10-01T00:00:00Z,42.0
+Austria,AT,Licensed Stores,2018-10-01T00:00:00Z,2.0
+Azerbaijan,AZ,Licensed Stores,2018-10-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2018-10-01T00:00:00Z,29.0
+Belgium,BE,Licensed Stores,2018-10-01T00:00:00Z,25.0
+Brazil,BR,Licensed Stores,2018-10-01T00:00:00Z,118.0
+Brunei,BN,Licensed Stores,2018-10-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2018-10-01T00:00:00Z,12.0
+Cambodia,KH,Licensed Stores,2018-10-01T00:00:00Z,14.0
+Canada,CA,Licensed Stores,2018-10-01T00:00:00Z,409.0
+Chile,CL,Licensed Stores,2018-10-01T00:00:00Z,119.0
+China,CN,Licensed Stores,2018-10-01T00:00:00Z,
+Colombia,CO,Licensed Stores,2018-10-01T00:00:00Z,31.0
+Costa Rica,CR,Licensed Stores,2018-10-01T00:00:00Z,14.0
+Curacao,,Licensed Stores,2018-10-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2018-10-01T00:00:00Z,11.0
+Czech Republic,CZ,Licensed Stores,2018-10-01T00:00:00Z,37.0
+Denmark,DK,Licensed Stores,2018-10-01T00:00:00Z,20.0
+Egypt,EG,Licensed Stores,2018-10-01T00:00:00Z,36.0
+El Salvador,SV,Licensed Stores,2018-10-01T00:00:00Z,12.0
+Finland,FI,Licensed Stores,2018-10-01T00:00:00Z,8.0
+France,FR,Licensed Stores,2018-10-01T00:00:00Z,100.0
+Germany,DE,Licensed Stores,2018-10-01T00:00:00Z,152.0
+Greece,GR,Licensed Stores,2018-10-01T00:00:00Z,31.0
+Guatemala,GT,Licensed Stores,2018-10-01T00:00:00Z,9.0
+Hong Kong/Macau,,Licensed Stores,2018-10-01T00:00:00Z,193.0
+Hungary,HU,Licensed Stores,2018-10-01T00:00:00Z,22.0
+Indonesia,ID,Licensed Stores,2018-10-01T00:00:00Z,365.0
+Ireland,IE,Licensed Stores,2018-10-01T00:00:00Z,77.0
+Japan,JP,Licensed Stores,2018-10-01T00:00:00Z,106.0
+Jordan,JO,Licensed Stores,2018-10-01T00:00:00Z,23.0
+Kazakhstan,KZ,Licensed Stores,2018-10-01T00:00:00Z,16.0
+Kuwait,KW,Licensed Stores,2018-10-01T00:00:00Z,142.0
+Lebanon,LB,Licensed Stores,2018-10-01T00:00:00Z,39.0
+Malaysia,MY,Licensed Stores,2018-10-01T00:00:00Z,268.0
+Mexico,MX,Licensed Stores,2018-10-01T00:00:00Z,708.0
+Monaco,MC,Licensed Stores,2018-10-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2018-10-01T00:00:00Z,11.0
+New Zealand,NZ,Licensed Stores,2018-10-01T00:00:00Z,22.0
+Norway,NO,Licensed Stores,2018-10-01T00:00:00Z,24.0
+Oman,OM,Licensed Stores,2018-10-01T00:00:00Z,13.0
+Panama,PA,Licensed Stores,2018-10-01T00:00:00Z,9.0
+Peru,PE,Licensed Stores,2018-10-01T00:00:00Z,102.0
+Philippines,PH,Licensed Stores,2018-10-01T00:00:00Z,360.0
+Poland,PL,Licensed Stores,2018-10-01T00:00:00Z,69.0
+Portugal,PT,Licensed Stores,2018-10-01T00:00:00Z,18.0
+Puerto Rico,US_RQ,Licensed Stores,2018-10-01T00:00:00Z,26.0
+Qatar,QA,Licensed Stores,2018-10-01T00:00:00Z,34.0
+Romania,RO,Licensed Stores,2018-10-01T00:00:00Z,41.0
+Russia,RU,Licensed Stores,2018-10-01T00:00:00Z,125.0
+Saudi Arabia,SA,Licensed Stores,2018-10-01T00:00:00Z,166.0
+Singapore,SG,Licensed Stores,2018-10-01T00:00:00Z,141.0
+South Korea,KR,Licensed Stores,2018-10-01T00:00:00Z,1231.0
+Spain,ES,Licensed Stores,2018-10-01T00:00:00Z,142.0
+Sweden,SE,Licensed Stores,2018-10-01T00:00:00Z,15.0
+Switzerland,CH,Licensed Stores,2018-10-01T00:00:00Z,7.0
+Taiwan,TW,Licensed Stores,2018-10-01T00:00:00Z,458.0
+Turkey,TR,Licensed Stores,2018-10-01T00:00:00Z,453.0
+UAE - Dubai,AE,Licensed Stores,2018-10-01T00:00:00Z,186.0
+United Kingdom,GB,Licensed Stores,2018-10-01T00:00:00Z,653.0
+United States,US,Licensed Stores,2018-10-01T00:00:00Z,6031.0
+Vietnam,VN,Licensed Stores,2018-10-01T00:00:00Z,39.0
+Andorra,AD,Licensed Stores,2018-10-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2018-10-01T00:00:00Z,12.0
+Jamaica,JM,Licensed Stores,2018-10-01T00:00:00Z,6.0
+Luxembourg,LU,Licensed Stores,2018-10-01T00:00:00Z,3.0
+Netherlands,NL,Licensed Stores,2018-10-01T00:00:00Z,65.0
+Slovakia,SK,Licensed Stores,2018-10-01T00:00:00Z,4.0
+South Africa,ZA,Licensed Stores,2018-10-01T00:00:00Z,12.0
+Total,,Licensed Stores,2018-10-01T00:00:00Z,27966.0
+Trinidad and Tobago,TT,Licensed Stores,2018-10-01T00:00:00Z,7.0
+Uruguay,UY,Licensed Stores,2018-10-01T00:00:00Z,3.0
+Argentina,AR,Licensed Stores,2019-01-01T00:00:00Z,143.0
+Aruba,,Licensed Stores,2019-01-01T00:00:00Z,4.0
+Australia,AU,Licensed Stores,2019-01-01T00:00:00Z,42.0
+Austria,AT,Licensed Stores,2019-01-01T00:00:00Z,2.0
+Azerbaijan,AZ,Licensed Stores,2019-01-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2019-01-01T00:00:00Z,31.0
+Belgium,BE,Licensed Stores,2019-01-01T00:00:00Z,26.0
+Brazil,BR,Licensed Stores,2019-01-01T00:00:00Z,119.0
+Brunei,BN,Licensed Stores,2019-01-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2019-01-01T00:00:00Z,13.0
+Cambodia,KH,Licensed Stores,2019-01-01T00:00:00Z,15.0
+Canada,CA,Licensed Stores,2019-01-01T00:00:00Z,414.0
+Chile,CL,Licensed Stores,2019-01-01T00:00:00Z,120.0
+China,CN,Licensed Stores,2019-01-01T00:00:00Z,
+Colombia,CO,Licensed Stores,2019-01-01T00:00:00Z,32.0
+Costa Rica,CR,Licensed Stores,2019-01-01T00:00:00Z,14.0
+Curacao,,Licensed Stores,2019-01-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2019-01-01T00:00:00Z,13.0
+Czech Republic,CZ,Licensed Stores,2019-01-01T00:00:00Z,41.0
+Denmark,DK,Licensed Stores,2019-01-01T00:00:00Z,19.0
+Egypt,EG,Licensed Stores,2019-01-01T00:00:00Z,38.0
+El Salvador,SV,Licensed Stores,2019-01-01T00:00:00Z,12.0
+Finland,FI,Licensed Stores,2019-01-01T00:00:00Z,8.0
+France,FR,Licensed Stores,2019-01-01T00:00:00Z,108.0
+Germany,DE,Licensed Stores,2019-01-01T00:00:00Z,157.0
+Greece,GR,Licensed Stores,2019-01-01T00:00:00Z,31.0
+Guatemala,GT,Licensed Stores,2019-01-01T00:00:00Z,9.0
+Hong Kong/Macau,,Licensed Stores,2019-01-01T00:00:00Z,195.0
+Hungary,HU,Licensed Stores,2019-01-01T00:00:00Z,26.0
+Indonesia,ID,Licensed Stores,2019-01-01T00:00:00Z,378.0
+Ireland,IE,Licensed Stores,2019-01-01T00:00:00Z,76.0
+Japan,JP,Licensed Stores,2019-01-01T00:00:00Z,112.0
+Jordan,JO,Licensed Stores,2019-01-01T00:00:00Z,23.0
+Kazakhstan,KZ,Licensed Stores,2019-01-01T00:00:00Z,18.0
+Kuwait,KW,Licensed Stores,2019-01-01T00:00:00Z,151.0
+Lebanon,LB,Licensed Stores,2019-01-01T00:00:00Z,39.0
+Malaysia,MY,Licensed Stores,2019-01-01T00:00:00Z,274.0
+Mexico,MX,Licensed Stores,2019-01-01T00:00:00Z,715.0
+Monaco,MC,Licensed Stores,2019-01-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2019-01-01T00:00:00Z,11.0
+New Zealand,NZ,Licensed Stores,2019-01-01T00:00:00Z,22.0
+Norway,NO,Licensed Stores,2019-01-01T00:00:00Z,23.0
+Oman,OM,Licensed Stores,2019-01-01T00:00:00Z,14.0
+Panama,PA,Licensed Stores,2019-01-01T00:00:00Z,9.0
+Peru,PE,Licensed Stores,2019-01-01T00:00:00Z,104.0
+Philippines,PH,Licensed Stores,2019-01-01T00:00:00Z,364.0
+Poland,PL,Licensed Stores,2019-01-01T00:00:00Z,72.0
+Portugal,PT,Licensed Stores,2019-01-01T00:00:00Z,20.0
+Puerto Rico,US_RQ,Licensed Stores,2019-01-01T00:00:00Z,26.0
+Qatar,QA,Licensed Stores,2019-01-01T00:00:00Z,35.0
+Romania,RO,Licensed Stores,2019-01-01T00:00:00Z,46.0
+Russia,RU,Licensed Stores,2019-01-01T00:00:00Z,131.0
+Saudi Arabia,SA,Licensed Stores,2019-01-01T00:00:00Z,180.0
+Singapore,SG,Licensed Stores,2019-01-01T00:00:00Z,141.0
+South Korea,KR,Licensed Stores,2019-01-01T00:00:00Z,1260.0
+Spain,ES,Licensed Stores,2019-01-01T00:00:00Z,147.0
+Sweden,SE,Licensed Stores,2019-01-01T00:00:00Z,14.0
+Switzerland,CH,Licensed Stores,2019-01-01T00:00:00Z,7.0
+Taiwan,TW,Licensed Stores,2019-01-01T00:00:00Z,454.0
+Turkey,TR,Licensed Stores,2019-01-01T00:00:00Z,457.0
+UAE - Dubai,AE,Licensed Stores,2019-01-01T00:00:00Z,191.0
+United Kingdom,GB,Licensed Stores,2019-01-01T00:00:00Z,670.0
+United States,US,Licensed Stores,2019-01-01T00:00:00Z,6118.0
+Vietnam,VN,Licensed Stores,2019-01-01T00:00:00Z,46.0
+Andorra,AD,Licensed Stores,2019-01-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2019-01-01T00:00:00Z,12.0
+Jamaica,JM,Licensed Stores,2019-01-01T00:00:00Z,6.0
+Luxembourg,LU,Licensed Stores,2019-01-01T00:00:00Z,3.0
+Netherlands,NL,Licensed Stores,2019-01-01T00:00:00Z,66.0
+Slovakia,SK,Licensed Stores,2019-01-01T00:00:00Z,5.0
+South Africa,ZA,Licensed Stores,2019-01-01T00:00:00Z,12.0
+Total,,Licensed Stores,2019-01-01T00:00:00Z,28498.0
+Trinidad and Tobago,TT,Licensed Stores,2019-01-01T00:00:00Z,7.0
+Uruguay,UY,Licensed Stores,2019-01-01T00:00:00Z,5.0
+Argentina,AR,Licensed Stores,2019-04-01T00:00:00Z,144.0
+Aruba,,Licensed Stores,2019-04-01T00:00:00Z,4.0
+Australia,AU,Licensed Stores,2019-04-01T00:00:00Z,45.0
+Austria,AT,Licensed Stores,2019-04-01T00:00:00Z,2.0
+Azerbaijan,AZ,Licensed Stores,2019-04-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2019-04-01T00:00:00Z,31.0
+Belgium,BE,Licensed Stores,2019-04-01T00:00:00Z,26.0
+Brazil,BR,Licensed Stores,2019-04-01T00:00:00Z,118.0
+Brunei,BN,Licensed Stores,2019-04-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2019-04-01T00:00:00Z,13.0
+Cambodia,KH,Licensed Stores,2019-04-01T00:00:00Z,15.0
+Canada,CA,Licensed Stores,2019-04-01T00:00:00Z,418.0
+Chile,CL,Licensed Stores,2019-04-01T00:00:00Z,123.0
+China,CN,Licensed Stores,2019-04-01T00:00:00Z,
+Colombia,CO,Licensed Stores,2019-04-01T00:00:00Z,33.0
+Costa Rica,CR,Licensed Stores,2019-04-01T00:00:00Z,14.0
+Curacao,,Licensed Stores,2019-04-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2019-04-01T00:00:00Z,13.0
+Czech Republic,CZ,Licensed Stores,2019-04-01T00:00:00Z,41.0
+Denmark,DK,Licensed Stores,2019-04-01T00:00:00Z,19.0
+Egypt,EG,Licensed Stores,2019-04-01T00:00:00Z,39.0
+El Salvador,SV,Licensed Stores,2019-04-01T00:00:00Z,12.0
+Finland,FI,Licensed Stores,2019-04-01T00:00:00Z,7.0
+France,FR,Licensed Stores,2019-04-01T00:00:00Z,180.0
+Germany,DE,Licensed Stores,2019-04-01T00:00:00Z,158.0
+Greece,GR,Licensed Stores,2019-04-01T00:00:00Z,29.0
+Guatemala,GT,Licensed Stores,2019-04-01T00:00:00Z,9.0
+Hong Kong/Macau,,Licensed Stores,2019-04-01T00:00:00Z,200.0
+Hungary,HU,Licensed Stores,2019-04-01T00:00:00Z,27.0
+Indonesia,ID,Licensed Stores,2019-04-01T00:00:00Z,391.0
+Ireland,IE,Licensed Stores,2019-04-01T00:00:00Z,77.0
+Japan,JP,Licensed Stores,2019-04-01T00:00:00Z,113.0
+Jordan,JO,Licensed Stores,2019-04-01T00:00:00Z,25.0
+Kazakhstan,KZ,Licensed Stores,2019-04-01T00:00:00Z,20.0
+Kuwait,KW,Licensed Stores,2019-04-01T00:00:00Z,151.0
+Lebanon,LB,Licensed Stores,2019-04-01T00:00:00Z,40.0
+Malaysia,MY,Licensed Stores,2019-04-01T00:00:00Z,284.0
+Mexico,MX,Licensed Stores,2019-04-01T00:00:00Z,736.0
+Monaco,MC,Licensed Stores,2019-04-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2019-04-01T00:00:00Z,14.0
+New Zealand,NZ,Licensed Stores,2019-04-01T00:00:00Z,22.0
+Norway,NO,Licensed Stores,2019-04-01T00:00:00Z,23.0
+Oman,OM,Licensed Stores,2019-04-01T00:00:00Z,14.0
+Panama,PA,Licensed Stores,2019-04-01T00:00:00Z,11.0
+Peru,PE,Licensed Stores,2019-04-01T00:00:00Z,104.0
+Philippines,PH,Licensed Stores,2019-04-01T00:00:00Z,365.0
+Poland,PL,Licensed Stores,2019-04-01T00:00:00Z,72.0
+Portugal,PT,Licensed Stores,2019-04-01T00:00:00Z,21.0
+Puerto Rico,US_RQ,Licensed Stores,2019-04-01T00:00:00Z,26.0
+Qatar,QA,Licensed Stores,2019-04-01T00:00:00Z,35.0
+Romania,RO,Licensed Stores,2019-04-01T00:00:00Z,46.0
+Russia,RU,Licensed Stores,2019-04-01T00:00:00Z,135.0
+Saudi Arabia,SA,Licensed Stores,2019-04-01T00:00:00Z,191.0
+Singapore,SG,Licensed Stores,2019-04-01T00:00:00Z,142.0
+South Korea,KR,Licensed Stores,2019-04-01T00:00:00Z,1278.0
+Spain,ES,Licensed Stores,2019-04-01T00:00:00Z,148.0
+Sweden,SE,Licensed Stores,2019-04-01T00:00:00Z,14.0
+Switzerland,CH,Licensed Stores,2019-04-01T00:00:00Z,7.0
+Taiwan,TW,Licensed Stores,2019-04-01T00:00:00Z,457.0
+Turkey,TR,Licensed Stores,2019-04-01T00:00:00Z,470.0
+UAE - Dubai,AE,Licensed Stores,2019-04-01T00:00:00Z,202.0
+United Kingdom,GB,Licensed Stores,2019-04-01T00:00:00Z,674.0
+United States,US,Licensed Stores,2019-04-01T00:00:00Z,6151.0
+Vietnam,VN,Licensed Stores,2019-04-01T00:00:00Z,48.0
+Andorra,AD,Licensed Stores,2019-04-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2019-04-01T00:00:00Z,13.0
+Jamaica,JM,Licensed Stores,2019-04-01T00:00:00Z,7.0
+Luxembourg,LU,Licensed Stores,2019-04-01T00:00:00Z,3.0
+Netherlands,NL,Licensed Stores,2019-04-01T00:00:00Z,82.0
+Slovakia,SK,Licensed Stores,2019-04-01T00:00:00Z,5.0
+South Africa,ZA,Licensed Stores,2019-04-01T00:00:00Z,12.0
+Total,,Licensed Stores,2019-04-01T00:00:00Z,29058.0
+Trinidad and Tobago,TT,Licensed Stores,2019-04-01T00:00:00Z,8.0
+Uruguay,UY,Licensed Stores,2019-04-01T00:00:00Z,5.0
+Argentina,AR,Licensed Stores,2019-07-01T00:00:00Z,146.0
+Aruba,,Licensed Stores,2019-07-01T00:00:00Z,4.0
+Australia,AU,Licensed Stores,2019-07-01T00:00:00Z,46.0
+Austria,AT,Licensed Stores,2019-07-01T00:00:00Z,2.0
+Azerbaijan,AZ,Licensed Stores,2019-07-01T00:00:00Z,4.0
+Bahrain,BH,Licensed Stores,2019-07-01T00:00:00Z,33.0
+Belgium,BE,Licensed Stores,2019-07-01T00:00:00Z,28.0
+Brazil,BR,Licensed Stores,2019-07-01T00:00:00Z,121.0
+Brunei,BN,Licensed Stores,2019-07-01T00:00:00Z,4.0
+Bulgaria,BG,Licensed Stores,2019-07-01T00:00:00Z,14.0
+Cambodia,KH,Licensed Stores,2019-07-01T00:00:00Z,16.0
+Canada,CA,Licensed Stores,2019-07-01T00:00:00Z,423.0
+Chile,CL,Licensed Stores,2019-07-01T00:00:00Z,126.0
+China,CN,Licensed Stores,2019-07-01T00:00:00Z,
+Colombia,CO,Licensed Stores,2019-07-01T00:00:00Z,34.0
+Costa Rica,CR,Licensed Stores,2019-07-01T00:00:00Z,14.0
+Curacao,,Licensed Stores,2019-07-01T00:00:00Z,3.0
+Cyprus,CY,Licensed Stores,2019-07-01T00:00:00Z,14.0
+Czech Republic,CZ,Licensed Stores,2019-07-01T00:00:00Z,44.0
+Denmark,DK,Licensed Stores,2019-07-01T00:00:00Z,19.0
+Egypt,EG,Licensed Stores,2019-07-01T00:00:00Z,39.0
+El Salvador,SV,Licensed Stores,2019-07-01T00:00:00Z,12.0
+Finland,FI,Licensed Stores,2019-07-01T00:00:00Z,7.0
+France,FR,Licensed Stores,2019-07-01T00:00:00Z,182.0
+Germany,DE,Licensed Stores,2019-07-01T00:00:00Z,161.0
+Greece,GR,Licensed Stores,2019-07-01T00:00:00Z,31.0
+Guatemala,GT,Licensed Stores,2019-07-01T00:00:00Z,9.0
+Hong Kong/Macau,,Licensed Stores,2019-07-01T00:00:00Z,201.0
+Hungary,HU,Licensed Stores,2019-07-01T00:00:00Z,27.0
+Indonesia,ID,Licensed Stores,2019-07-01T00:00:00Z,407.0
+Ireland,IE,Licensed Stores,2019-07-01T00:00:00Z,79.0
+Japan,JP,Licensed Stores,2019-07-01T00:00:00Z,115.0
+Jordan,JO,Licensed Stores,2019-07-01T00:00:00Z,25.0
+Kazakhstan,KZ,Licensed Stores,2019-07-01T00:00:00Z,21.0
+Kuwait,KW,Licensed Stores,2019-07-01T00:00:00Z,157.0
+Lebanon,LB,Licensed Stores,2019-07-01T00:00:00Z,42.0
+Malaysia,MY,Licensed Stores,2019-07-01T00:00:00Z,291.0
+Mexico,MX,Licensed Stores,2019-07-01T00:00:00Z,736.0
+Monaco,MC,Licensed Stores,2019-07-01T00:00:00Z,2.0
+Morocco,MA,Licensed Stores,2019-07-01T00:00:00Z,15.0
+New Zealand,NZ,Licensed Stores,2019-07-01T00:00:00Z,23.0
+Norway,NO,Licensed Stores,2019-07-01T00:00:00Z,23.0
+Oman,OM,Licensed Stores,2019-07-01T00:00:00Z,15.0
+Panama,PA,Licensed Stores,2019-07-01T00:00:00Z,11.0
+Peru,PE,Licensed Stores,2019-07-01T00:00:00Z,104.0
+Philippines,PH,Licensed Stores,2019-07-01T00:00:00Z,375.0
+Poland,PL,Licensed Stores,2019-07-01T00:00:00Z,72.0
+Portugal,PT,Licensed Stores,2019-07-01T00:00:00Z,21.0
+Puerto Rico,US_RQ,Licensed Stores,2019-07-01T00:00:00Z,27.0
+Qatar,QA,Licensed Stores,2019-07-01T00:00:00Z,35.0
+Romania,RO,Licensed Stores,2019-07-01T00:00:00Z,47.0
+Russia,RU,Licensed Stores,2019-07-01T00:00:00Z,141.0
+Saudi Arabia,SA,Licensed Stores,2019-07-01T00:00:00Z,195.0
+Singapore,SG,Licensed Stores,2019-07-01T00:00:00Z,143.0
+South Korea,KR,Licensed Stores,2019-07-01T00:00:00Z,1308.0
+Spain,ES,Licensed Stores,2019-07-01T00:00:00Z,149.0
+Sweden,SE,Licensed Stores,2019-07-01T00:00:00Z,14.0
+Switzerland,CH,Licensed Stores,2019-07-01T00:00:00Z,6.0
+Taiwan,TW,Licensed Stores,2019-07-01T00:00:00Z,466.0
+Turkey,TR,Licensed Stores,2019-07-01T00:00:00Z,480.0
+UAE - Dubai,AE,Licensed Stores,2019-07-01T00:00:00Z,202.0
+United Kingdom,GB,Licensed Stores,2019-07-01T00:00:00Z,688.0
+United States,US,Licensed Stores,2019-07-01T00:00:00Z,6188.0
+Vietnam,VN,Licensed Stores,2019-07-01T00:00:00Z,52.0
+Andorra,AD,Licensed Stores,2019-07-01T00:00:00Z,1.0
+Bahamas,BS,Licensed Stores,2019-07-01T00:00:00Z,13.0
+Jamaica,JM,Licensed Stores,2019-07-01T00:00:00Z,7.0
+Luxembourg,LU,Licensed Stores,2019-07-01T00:00:00Z,4.0
+Netherlands,NL,Licensed Stores,2019-07-01T00:00:00Z,83.0
+Slovakia,SK,Licensed Stores,2019-07-01T00:00:00Z,5.0
+South Africa,ZA,Licensed Stores,2019-07-01T00:00:00Z,12.0
+Total,,Licensed Stores,2019-07-01T00:00:00Z,30246.0
+Trinidad and Tobago,TT,Licensed Stores,2019-07-01T00:00:00Z,8.0
+Uruguay,UY,Licensed Stores,2019-07-01T00:00:00Z,6.0
